@@ -1,0 +1,484 @@
+<facsimile>
+    <surface> 
+        <graphic url='Vol1-1878-1-S1-F3-pag34.png' width='1384px' height='1998px' />
+
+        <!-- Pagina 34: MONUMENTO A VITTORIO EMANUELE prima colonna-->
+        <zone ulx="151" uly="1331" lrx="710" lry="1362" xml:id="pag34_titolo" />
+        <zone ulx="334" uly="1373" lrx="526" lry="1396" xml:id="pag34_sottotitolo" />
+        <zone ulx="159" uly="1405" lrx="732" lry="1435" xml:id="pag34_r1" />
+        <zone ulx="130" uly="1437" lrx="732" lry="1460" xml:id="pag34_r2" />
+        <zone ulx="128" uly="1460" lrx="736" lry="1484" xml:id="pag34_r3" />
+        <zone ulx="130" uly="1485" lrx="733" lry="1512" xml:id="pag34_r4" />
+        <zone ulx="128" uly="1514" lrx="737" lry="1542" xml:id="pag34_r5" />
+        <zone ulx="123" uly="1542" lrx="732" lry="1567" xml:id="pag34_r6" />
+        <zone ulx="127" uly="1568" lrx="730" lry="1588" xml:id="pag34_r7" />
+        <zone ulx="128" uly="1589" lrx="735" lry="1618" xml:id="pag34_r8" />
+        <zone ulx="129" uly="1620" lrx="736" lry="1644" xml:id="pag34_r9" />
+        <zone ulx="128" uly="1644" lrx="734" lry="1670" xml:id="pag34_r10" />
+        <zone ulx="128" uly="1673" lrx="731" lry="1695" xml:id="pag34_r11" />
+        <zone ulx="127" uly="1697" lrx="736" lry="1720" xml:id="pag34_r12" />
+        <zone ulx="129" uly="1723" lrx="737" lry="1749" xml:id="pag34_r13" />
+        <zone ulx="127" uly="1750" lrx="734" lry="1773" xml:id="pag34_r14" />
+        <zone ulx="125" uly="1774" lrx="734" lry="1798" xml:id="pag34_r15" />
+        <zone ulx="124" uly="1802" lrx="736" lry="1824" xml:id="pag34_r16" />
+        <zone ulx="128" uly="1828" lrx="731" lry="1850" xml:id="pag34_r17" />
+        <zone ulx="127" uly="1855" lrx="730" lry="1882" xml:id="pag34_r18" />
+        
+        <!-- seconda colonna -->
+        <zone ulx="732" uly="133" lrx="1361" lry="165" xml:id="pag34_r19" />
+        <zone ulx="754" uly="163" lrx="1359" lry="183" xml:id="pag34_r20" />
+        <zone ulx="753" uly="188" lrx="1354" lry="212" xml:id="pag34_r21" />
+        <zone ulx="749" uly="216" lrx="1352" lry="237" xml:id="pag34_r22" />
+        <zone ulx="753" uly="242" lrx="1359" lry="264" xml:id="pag34_r23" />
+        <zone ulx="752" uly="273" lrx="1362" lry="289" xml:id="pag34_r24" />
+        <zone ulx="755" uly="296" lrx="1347" lry="314" xml:id="pag34_r25" />
+        <zone ulx="758" uly="321" lrx="1358" lry="339" xml:id="pag34_r26" />
+        <zone ulx="753" uly="348" lrx="1357" lry="370" xml:id="pag34_r27" />
+        <zone ulx="752" uly="371" lrx="1358" lry="395" xml:id="pag34_r28" />
+        <zone ulx="752" uly="404" lrx="1351" lry="419" xml:id="pag34_r29" />
+        <zone ulx="746" uly="423" lrx="1353" lry="448" xml:id="pag34_r30" />
+        <zone ulx="752" uly="447" lrx="1366" lry="469" xml:id="pag34_r31" />
+        <zone ulx="753" uly="475" lrx="1245" lry="499" xml:id="pag34_r32" />
+        <zone ulx="775" uly="503" lrx="1359" lry="522" xml:id="pag34_r33" />
+        <zone ulx="749" uly="523" lrx="1365" lry="552" xml:id="pag34_r34" />
+        <zone ulx="755" uly="555" lrx="1353" lry="578" xml:id="pag34_r35" />
+        <zone ulx="749" uly="579" lrx="1358" lry="601" xml:id="pag34_r36" />
+        <zone ulx="745" uly="602" lrx="1355" lry="629" xml:id="pag34_r37" />
+        <zone ulx="749" uly="635" lrx="1352" lry="655" xml:id="pag34_r38" />
+        <zone ulx="755" uly="660" lrx="1362" lry="681" xml:id="pag34_r39" />
+        <zone ulx="751" uly="683" lrx="1357" lry="704" xml:id="pag34_r40" />
+        <zone ulx="752" uly="709" lrx="1360" lry="733" xml:id="pag34_r41" />
+        <zone ulx="749" uly="736" lrx="1364" lry="756" xml:id="pag34_r42" />
+        <zone ulx="755" uly="760" lrx="1366" lry="788" xml:id="pag34_r43" />
+        <zone ulx="748" uly="783" lrx="862" lry="811" xml:id="pag34_r44" />
+        <zone ulx="772" uly="809" lrx="1361" lry="835" xml:id="pag34_r45" />
+        <zone ulx="754" uly="837" lrx="1350" lry="862" xml:id="pag34_r46" />
+        <zone ulx="752" uly="864" lrx="1355" lry="885" xml:id="pag34_r47" />
+        <zone ulx="747" uly="888" lrx="1360" lry="914" xml:id="pag34_r48" />
+        <zone ulx="751" uly="914" lrx="1357" lry="943" xml:id="pag34_r49" />
+        <zone ulx="760" uly="941" lrx="1362" lry="969" xml:id="pag34_r50" />
+        <zone ulx="746" uly="971" lrx="1352" lry="990" xml:id="pag34_r51" />
+        <zone ulx="749" uly="994" lrx="1357" lry="1016" xml:id="pag34_r52" />
+        <zone ulx="750" uly="1024" lrx="1360" lry="1043" xml:id="pag34_r53" />
+        <zone ulx="754" uly="1048" lrx="1355" lry="1069" xml:id="pag34_r54" />
+        <zone ulx="753" uly="1068" lrx="1355" lry="1095" xml:id="pag34_r55" />
+        <zone ulx="751" uly="1101" lrx="1364" lry="1120" xml:id="pag34_r56" />
+        <zone ulx="751" uly="1122" lrx="1104" lry="1146" xml:id="pag34_r57" />
+        <zone ulx="778" uly="1151" lrx="1352" lry="1171" xml:id="pag34_r58" />
+        <zone ulx="753" uly="1174" lrx="1358" lry="1197" xml:id="pag34_r59" />
+        <zone ulx="750" uly="1201" lrx="1361" lry="1227" xml:id="pag34_r60" />
+        <zone ulx="752" uly="1231" lrx="1123" lry="1253" xml:id="pag34_r61" />
+        <zone ulx="779" uly="1252" lrx="1354" lry="1274" xml:id="pag34_r62" />
+        <zone ulx="748" uly="1279" lrx="1359" lry="1302" xml:id="pag34_r63" />
+        <zone ulx="752" uly="1306" lrx="1356" lry="1328" xml:id="pag34_r64" />
+        <zone ulx="749" uly="1334" lrx="1367" lry="1359" xml:id="pag34_r65" />
+        <zone ulx="749" uly="1367" lrx="1359" lry="1388" xml:id="pag34_r66" />
+        <zone ulx="752" uly="1391" lrx="1369" lry="1405" xml:id="pag34_r67" />
+        <zone ulx="756" uly="1403" lrx="1367" lry="1439" xml:id="pag34_r68" />
+        <zone ulx="755" uly="1434" lrx="869" lry="1462" xml:id="pag34_r69" />
+        <zone ulx="778" uly="1463" lrx="1362" lry="1491" xml:id="pag34_r70" />
+        <zone ulx="755" uly="1492" lrx="1359" lry="1509" xml:id="pag34_r71" />
+        <zone ulx="758" uly="1513" lrx="1360" lry="1539" xml:id="pag34_r72" />
+        <zone ulx="753" uly="1546" lrx="1361" lry="1564" xml:id="pag34_r73" />
+        <zone ulx="753" uly="1571" lrx="1355" lry="1592" xml:id="pag34_r74" />
+        <zone ulx="751" uly="1597" lrx="1369" lry="1619" xml:id="pag34_r75" />
+        <zone ulx="753" uly="1626" lrx="1358" lry="1641" xml:id="pag34_r76" />
+        <zone ulx="753" uly="1644" lrx="1367" lry="1668" xml:id="pag34_r77" />
+        <zone ulx="749" uly="1669" lrx="1363" lry="1692" xml:id="pag34_r78" />
+        <zone ulx="759" uly="1699" lrx="1368" lry="1720" xml:id="pag34_r79" />
+        <zone ulx="757" uly="1723" lrx="1363" lry="1743" xml:id="pag34_r80" />
+        <zone ulx="756" uly="1753" lrx="1278" lry="1776" xml:id="pag34_r81" />
+        <zone ulx="778" uly="1781" lrx="1360" lry="1801" xml:id="pag34_r82" />
+        <zone ulx="759" uly="1808" lrx="1360" lry="1823" xml:id="pag34_r83" />
+        <zone ulx="755" uly="1827" lrx="1359" lry="1848" xml:id="pag34_r84" />
+        <zone ulx="757" uly="1851" lrx="1358" lry="1874" xml:id="pag34_r85" />
+        
+
+</surface>
+
+    <!-- Pagina 35-->
+    <surface>
+        <graphic url='Vol1-1878-1-S1-F3-pag35.png' width='1350px' height='2020px' />
+        <zone ulx="48" uly="112" lrx="653" lry="142" />
+        <zone ulx="50" uly="144" lrx="654" lry="165" />
+        <zone ulx="48" uly="163" lrx="651" lry="194" />
+    </surface>
+    
+    <!-- Pagina 43: LETTERATURA DRAMMATICA prima colonna-->
+    <surface>
+        <graphic url='Vol1-1878-1-S1-F3-pag43.png' width='1370px' height='2024px' />
+        <zone ulx="181" uly="1402" lrx="583" lry="1436" xml:id="pag43_titolo" />
+        <zone ulx="112" uly="1443" lrx="683" lry="1468" xml:id="pag 43_r1" />
+        <zone ulx="81" uly="1476" lrx="683" lry="1494" xml:id="pag 43_r2" />
+        <zone ulx="76" uly="1500" lrx="687" lry="1518" />
+        <zone ulx="76" uly="1517" lrx="687" lry="1544" />
+        <zone ulx="83" uly="1545" lrx="682" lry="1575" />
+        <zone ulx="86" uly="1573" lrx="683" lry="1592" />
+        <zone ulx="82" uly="1600" lrx="688" lry="1624" />
+        <zone ulx="82" uly="1626" lrx="685" lry="1649" />
+        <zone ulx="79" uly="1654" lrx="686" lry="1672" />
+        <zone ulx="83" uly="1676" lrx="690" lry="1695" />
+        <zone ulx="79" uly="1700" lrx="682" lry="1722" />
+        <zone ulx="77" uly="1727" lrx="679" lry="1748" />
+        <zone ulx="77" uly="1754" lrx="682" lry="1776" />
+        <zone ulx="75" uly="1777" lrx="681" lry="1802" />
+        <zone ulx="88" uly="1806" lrx="681" lry="1827" />
+        <zone ulx="77" uly="1831" lrx="679" lry="1852" />
+
+        <!-- seconda colonna-->
+        <zone ulx="701" uly="124" lrx="1310" lry="142" />
+        <zone ulx="705" uly="145" lrx="1310" lry="170" />
+        <zone ulx="704" uly="174" lrx="1106" lry="195" />
+        <zone ulx="716" uly="192" lrx="1305" lry="224" />
+        <zone ulx="704" uly="223" lrx="1309" lry="248" />
+        <zone ulx="701" uly="246" lrx="1305" lry="275" />
+        <zone ulx="704" uly="280" lrx="1304" lry="300" />
+        <zone ulx="705" uly="306" lrx="1308" lry="326" />
+        <zone ulx="704" uly="328" lrx="1308" lry="356" />
+        <zone ulx="699" uly="354" lrx="1305" lry="384" />
+        <zone ulx="702" uly="382" lrx="1301" lry="403" />
+        <zone ulx="706" uly="414" lrx="1310" lry="428" />
+        <zone ulx="700" uly="437" lrx="1308" lry="453" />
+        <zone ulx="703" uly="462" lrx="1303" lry="484" />
+        <zone ulx="702" uly="487" lrx="1309" lry="515" />
+        <zone ulx="701" uly="515" lrx="1303" lry="534" />
+        <zone ulx="699" uly="537" lrx="1308" lry="559" />
+        <zone ulx="702" uly="562" lrx="1303" lry="589" />
+        <zone ulx="708" uly="592" lrx="1327" lry="620" />
+        <zone ulx="703" uly="625" lrx="1302" lry="638" />
+        <zone ulx="701" uly="641" lrx="1302" lry="665" />
+        <zone ulx="703" uly="669" lrx="1302" lry="685" />
+        <zone ulx="700" uly="698" lrx="1304" lry="708" />
+        <zone ulx="703" uly="718" lrx="1302" lry="739" />
+        <zone ulx="702" uly="749" lrx="1299" lry="767" />
+        <zone ulx="700" uly="775" lrx="1301" lry="791" />
+        <zone ulx="700" uly="794" lrx="1303" lry="818" />
+        <zone ulx="699" uly="820" lrx="1306" lry="843" />
+        <zone ulx="695" uly="848" lrx="1308" lry="872" />
+        <zone ulx="700" uly="878" lrx="1299" lry="893" />
+        <zone ulx="723" uly="899" lrx="1300" lry="917" />
+        <zone ulx="706" uly="931" lrx="1307" lry="945" />
+        <zone ulx="701" uly="954" lrx="1304" lry="974" />
+        <zone ulx="704" uly="975" lrx="947" lry="1001" />
+        <zone ulx="733" uly="1004" lrx="1310" lry="1023" />
+        <zone ulx="706" uly="1026" lrx="1312" lry="1052" />
+        <zone ulx="708" uly="1058" lrx="1304" lry="1078" />
+        <zone ulx="695" uly="1085" lrx="1306" lry="1100" />
+        <zone ulx="692" uly="1107" lrx="1316" lry="1129" />
+        <zone ulx="700" uly="1131" lrx="1304" lry="1152" />
+        <zone ulx="704" uly="1162" lrx="1308" lry="1180" />
+        <zone ulx="705" uly="1180" lrx="1304" lry="1204" />
+        <zone ulx="701" uly="1209" lrx="1301" lry="1232" />
+        <zone ulx="698" uly="1234" lrx="1305" lry="1258" />
+        <zone ulx="703" uly="1260" lrx="1301" lry="1283" />
+        <zone ulx="702" uly="1288" lrx="1302" lry="1312" />
+        <zone ulx="700" uly="1314" lrx="1305" lry="1337" />
+        <zone ulx="706" uly="1342" lrx="1313" lry="1360" />
+        <zone ulx="703" uly="1364" lrx="1306" lry="1389" />
+        <zone ulx="693" uly="1395" lrx="1302" lry="1411" />
+        <zone ulx="703" uly="1415" lrx="1298" lry="1436" />
+        <zone ulx="702" uly="1441" lrx="1302" lry="1463" />
+        <zone ulx="700" uly="1471" lrx="1300" lry="1490" />
+        <zone ulx="702" uly="1496" lrx="1301" lry="1518" />
+        <zone ulx="704" uly="1525" lrx="1303" lry="1544" />
+        <zone ulx="702" uly="1542" lrx="1303" lry="1571" />
+        <zone ulx="733" uly="1571" lrx="1298" lry="1597" />
+        <zone ulx="703" uly="1602" lrx="1307" lry="1621" />
+        <zone ulx="707" uly="1627" lrx="1303" lry="1649" />
+        <zone ulx="703" uly="1652" lrx="1307" lry="1673" />
+        <zone ulx="702" uly="1676" lrx="1305" lry="1699" />
+        <zone ulx="702" uly="1699" lrx="1304" lry="1724" />
+        <zone ulx="703" uly="1723" lrx="1308" lry="1753" />
+        <zone ulx="703" uly="1754" lrx="1301" lry="1771" />
+        <zone ulx="696" uly="1774" lrx="1307" lry="1802" />
+        <zone ulx="701" uly="1806" lrx="1310" lry="1827" />
+        <zone ulx="703" uly="1830" lrx="1305" lry="1848" />
+    </surface>
+
+    <!-- Pagina 44: prima colonna-->
+<surface>
+    <graphic url='Vol1-1878-1-S1-F3-pag44.png' width='1364px' height='2014px' />
+    <zone ulx="98" uly="146" lrx="704" lry="176" xml:id="pag44_r1" />
+    <zone ulx="91" uly="173" lrx="705" lry="199" />
+    <zone ulx="93" uly="201" lrx="405" lry="225" />
+    <zone ulx="116" uly="225" lrx="697" lry="251" />
+    <zone ulx="93" uly="249" lrx="698" lry="278" />
+    <zone ulx="90" uly="277" lrx="705" lry="303" />
+    <zone ulx="87" uly="304" lrx="700" lry="329" />
+    <zone ulx="88" uly="330" lrx="701" lry="358" />
+    <zone ulx="91" uly="357" lrx="696" lry="383" />
+    <zone ulx="90" uly="384" lrx="700" lry="408" />
+    <zone ulx="91" uly="416" lrx="702" lry="437" />
+    <zone ulx="91" uly="435" lrx="697" lry="458" />
+    <zone ulx="91" uly="458" lrx="703" lry="486" />
+    <zone ulx="91" uly="487" lrx="701" lry="510" />
+    <zone ulx="97" uly="517" lrx="697" lry="539" />
+    <zone ulx="90" uly="542" lrx="699" lry="564" />
+    <zone ulx="90" uly="569" lrx="702" lry="593" />
+    <zone ulx="90" uly="592" lrx="707" lry="615" />
+    <zone ulx="91" uly="618" lrx="701" lry="637" />
+    <zone ulx="99" uly="645" lrx="704" lry="666" />
+    <zone ulx="94" uly="668" lrx="700" lry="690" />
+    <zone ulx="95" uly="700" lrx="703" lry="713" />
+    <zone ulx="96" uly="724" lrx="702" lry="744" />
+    <zone ulx="96" uly="748" lrx="705" lry="770" />
+    <zone ulx="93" uly="772" lrx="698" lry="801" />
+    <zone ulx="92" uly="804" lrx="704" lry="825" />
+    <zone ulx="92" uly="828" lrx="706" lry="849" />
+    <zone ulx="91" uly="855" lrx="707" lry="877" />
+    <zone ulx="95" uly="878" lrx="706" lry="904" />
+    <zone ulx="95" uly="907" lrx="702" lry="931" />
+    <zone ulx="97" uly="930" lrx="705" lry="957" />
+    <zone ulx="95" uly="955" lrx="701" lry="984" />
+    <zone ulx="96" uly="985" lrx="708" lry="1004" />
+    <zone ulx="91" uly="1011" lrx="709" lry="1034" />
+    <zone ulx="95" uly="1038" lrx="700" lry="1057" />
+    <zone ulx="91" uly="1059" lrx="703" lry="1085" />
+    <zone ulx="95" uly="1085" lrx="708" lry="1111" />
+    <zone ulx="89" uly="1108" lrx="707" lry="1138" />
+    <zone ulx="98" uly="1140" lrx="704" lry="1167" />
+    <zone ulx="96" uly="1167" lrx="706" lry="1194" />
+    <zone ulx="95" uly="1195" lrx="704" lry="1218" />
+    <zone ulx="93" uly="1218" lrx="703" lry="1242" />
+    <zone ulx="94" uly="1243" lrx="703" lry="1268" />
+    <zone ulx="95" uly="1273" lrx="705" lry="1297" />
+    <zone ulx="96" uly="1298" lrx="708" lry="1321" />
+    <zone ulx="96" uly="1322" lrx="704" lry="1347" />
+    <zone ulx="86" uly="1343" lrx="702" lry="1375" />
+    <zone ulx="84" uly="1378" lrx="701" lry="1398" />
+    <zone ulx="93" uly="1397" lrx="698" lry="1427" />
+    <zone ulx="92" uly="1431" lrx="711" lry="1450" />
+    <zone ulx="87" uly="1449" lrx="702" lry="1472" />
+    <zone ulx="91" uly="1481" lrx="715" lry="1498" />
+    <zone ulx="90" uly="1499" lrx="709" lry="1530" />
+    <zone ulx="92" uly="1526" lrx="706" lry="1552" />
+    <zone ulx="91" uly="1556" lrx="706" lry="1576" />
+    <zone ulx="94" uly="1581" lrx="608" lry="1601" />
+    <zone ulx="123" uly="1604" lrx="709" lry="1631" />
+    <zone ulx="94" uly="1631" lrx="706" lry="1659" />
+    <zone ulx="87" uly="1657" lrx="707" lry="1679" />
+    <zone ulx="88" uly="1686" lrx="708" lry="1712" />
+    <zone ulx="84" uly="1709" lrx="711" lry="1736" />
+    <zone ulx="90" uly="1739" lrx="705" lry="1760" />
+    <zone ulx="88" uly="1755" lrx="709" lry="1784" />
+    <zone ulx="92" uly="1790" lrx="707" lry="1812" />
+    <zone ulx="89" uly="1817" lrx="710" lry="1839" />
+    <zone ulx="93" uly="1847" lrx="704" lry="1866" />
+    <zone ulx="92" uly="1869" lrx="176" lry="1895" />
+
+    <!--seconda colonna-->
+    <zone ulx="760" uly="136" lrx="1332" lry="173" />
+    <zone ulx="715" uly="182" lrx="1341" lry="201" />
+    <zone ulx="718" uly="204" lrx="1333" lry="223" />
+    <zone ulx="716" uly="226" lrx="1335" lry="248" />
+    <zone ulx="717" uly="256" lrx="1336" lry="280" />
+    <zone ulx="726" uly="285" lrx="1332" lry="303" />
+    <zone ulx="721" uly="307" lrx="1340" lry="334" />
+    <zone ulx="723" uly="337" lrx="1341" lry="359" />
+    <zone ulx="722" uly="360" lrx="1338" lry="382" />
+    <zone ulx="726" uly="383" lrx="1336" lry="405" />
+    <zone ulx="724" uly="413" lrx="1343" lry="435" />
+    <zone ulx="721" uly="435" lrx="1019" lry="463" />
+    <zone ulx="955" uly="474" lrx="1136" lry="493" />
+    <zone ulx="878" uly="494" lrx="1154" lry="517" />
+    <zone ulx="722" uly="534" lrx="1338" lry="557" />
+    <zone ulx="723" uly="560" lrx="1340" lry="585" />
+    <zone ulx="726" uly="587" lrx="1333" lry="610" />
+    <zone ulx="744" uly="612" lrx="1336" lry="636" />
+    <zone ulx="722" uly="640" lrx="1333" lry="663" />
+    <zone ulx="724" uly="664" lrx="1335" lry="689" />
+    <zone ulx="724" uly="692" lrx="1344" lry="714" />
+    <zone ulx="726" uly="716" lrx="1326" lry="741" />
+    <zone ulx="723" uly="744" lrx="1336" lry="770" />
+    <zone ulx="726" uly="774" lrx="1338" lry="795" />
+    <zone ulx="726" uly="799" lrx="1332" lry="819" />
+    <zone ulx="729" uly="825" lrx="1332" lry="850" />
+    <zone ulx="722" uly="853" lrx="1332" lry="878" />
+    <zone ulx="725" uly="879" lrx="1334" lry="904" />
+    <zone ulx="724" uly="906" lrx="1340" lry="926" />
+    <zone ulx="726" uly="930" lrx="1335" lry="950" />
+    <zone ulx="728" uly="952" lrx="1335" lry="978" />
+    <zone ulx="727" uly="979" lrx="1337" lry="1006" />
+    <zone ulx="722" uly="1008" lrx="1334" lry="1028" />
+    <zone ulx="723" uly="1032" lrx="1332" lry="1053" />
+    <zone ulx="724" uly="1058" lrx="1340" lry="1084" />
+    <zone ulx="723" uly="1088" lrx="1332" lry="1110" />
+    <zone ulx="724" uly="1114" lrx="1336" lry="1134" />
+    <zone ulx="727" uly="1135" lrx="1332" lry="1163" />
+    <zone ulx="729" uly="1162" lrx="1337" lry="1186" />
+    <zone ulx="724" uly="1188" lrx="1335" lry="1213" />
+    <zone ulx="723" uly="1214" lrx="1336" lry="1241" />
+    <zone ulx="724" uly="1241" lrx="1343" lry="1265" />
+    <zone ulx="724" uly="1268" lrx="1334" lry="1293" />
+    <zone ulx="726" uly="1294" lrx="1337" lry="1320" />
+    <zone ulx="724" uly="1321" lrx="1339" lry="1346" />
+    <zone ulx="728" uly="1346" lrx="1337" lry="1374" />
+    <zone ulx="724" uly="1372" lrx="1339" lry="1399" />
+    <zone ulx="723" uly="1398" lrx="1335" lry="1425" />
+    <zone ulx="723" uly="1425" lrx="1340" lry="1449" />
+    <zone ulx="727" uly="1451" lrx="1332" lry="1476" />
+    <zone ulx="727" uly="1478" lrx="1339" lry="1504" />
+    <zone ulx="729" uly="1504" lrx="1337" lry="1529" />
+    <zone ulx="726" uly="1530" lrx="1336" lry="1554" />
+    <zone ulx="725" uly="1552" lrx="1337" lry="1581" />
+    <zone ulx="725" uly="1577" lrx="1333" lry="1602" />
+    <zone ulx="725" uly="1610" lrx="1341" lry="1634" />
+    <zone ulx="727" uly="1634" lrx="1180" lry="1658" />
+    <zone ulx="754" uly="1659" lrx="1340" lry="1683" />
+    <zone ulx="725" uly="1688" lrx="1335" lry="1710" />
+    <zone ulx="728" uly="1712" lrx="1342" lry="1737" />
+    <zone ulx="725" uly="1737" lrx="1340" lry="1762" />
+    <zone ulx="723" uly="1763" lrx="1336" lry="1791" />
+    <zone ulx="725" uly="1790" lrx="1340" lry="1811" />
+    <zone ulx="722" uly="1811" lrx="1332" lry="1842" />
+    <zone ulx="726" uly="1845" lrx="1340" lry="1864" />
+    <zone ulx="725" uly="1869" lrx="1336" lry="1890" />
+</surface>
+
+    <!-- Pagina 45-->
+    <surface>
+        <graphic url='Vol1-1878-1-S1-F3-pag45.png' width='1328px' height='2018px' />
+        <zone ulx="53" uly="118" lrx="656" lry="145" xml:id="pag45_r1" />
+        <zone ulx="52" uly="142" lrx="657" lry="171" />
+        <zone ulx="48" uly="169" lrx="664" lry="195" />
+        <zone ulx="53" uly="197" lrx="308" lry="227" />
+    </surface>
+
+    <!-- Pagina 46 BIBLIOGRAFIA: SCIENZE GIURIDICHE prima colonna-->
+    <surface>
+        <graphic url='Vol1-1878-1-S1-F3-pag46.png' width='1360px' height='2014px' />
+        <zone ulx="278" uly="765" lrx="500" lry="782" xml:id="pag46_titolo"/>
+        <zone ulx="67" uly="791" lrx="692" lry="818" xml:id="pag46_r1"/>
+        <zone ulx="101" uly="819" lrx="267" lry="850" />
+        <zone ulx="99" uly="848" lrx="691" lry="880" />
+        <zone ulx="76" uly="879" lrx="692" lry="903" />
+        <zone ulx="72" uly="903" lrx="688" lry="930" />
+        <zone ulx="76" uly="930" lrx="688" lry="959" />
+        <zone ulx="74" uly="961" lrx="692" lry="984" />
+        <zone ulx="73" uly="982" lrx="685" lry="1012" />
+        <zone ulx="72" uly="1010" lrx="688" lry="1035" />
+        <zone ulx="72" uly="1036" lrx="693" lry="1056" />
+        <zone ulx="73" uly="1055" lrx="685" lry="1084" />
+        <zone ulx="75" uly="1086" lrx="692" lry="1114" />
+        <zone ulx="77" uly="1114" lrx="695" lry="1134" />
+        <zone ulx="79" uly="1138" lrx="689" lry="1164" />
+        <zone ulx="76" uly="1165" lrx="688" lry="1192" />
+        <zone ulx="74" uly="1191" lrx="688" lry="1215" />
+        <zone ulx="77" uly="1215" lrx="691" lry="1243" />
+        <zone ulx="79" uly="1243" lrx="688" lry="1269" />
+        <zone ulx="79" uly="1270" lrx="684" lry="1292" />
+        <zone ulx="79" uly="1296" lrx="689" lry="1320" />
+        <zone ulx="76" uly="1321" lrx="692" lry="1347" />
+        <zone ulx="75" uly="1349" lrx="691" lry="1373" />
+        <zone ulx="75" uly="1376" lrx="687" lry="1400" />
+        <zone ulx="78" uly="1401" lrx="692" lry="1429" />
+        <zone ulx="76" uly="1429" lrx="397" lry="1450" />
+        <zone ulx="94" uly="1451" lrx="692" lry="1476" />
+        <zone ulx="75" uly="1476" lrx="690" lry="1505" />
+        <zone ulx="74" uly="1508" lrx="693" lry="1532" />
+        <zone ulx="75" uly="1533" lrx="691" lry="1555" />
+        <zone ulx="80" uly="1562" lrx="693" lry="1583" />
+        <zone ulx="78" uly="1586" lrx="691" lry="1607" />
+        <zone ulx="81" uly="1610" lrx="692" lry="1635" />
+        <zone ulx="80" uly="1636" lrx="691" lry="1657" />
+        <zone ulx="82" uly="1664" lrx="690" lry="1687" />
+        <zone ulx="81" uly="1689" lrx="691" lry="1712" />
+        <zone ulx="79" uly="1717" lrx="689" lry="1738" />
+        <zone ulx="77" uly="1740" lrx="694" lry="1765" />
+        <zone ulx="78" uly="1768" lrx="693" lry="1790" />
+        <zone ulx="85" uly="1794" lrx="696" lry="1818" />
+        <zone ulx="78" uly="1822" lrx="697" lry="1841" />
+        <zone ulx="75" uly="1849" lrx="693" lry="1869" />
+        <zone ulx="77" uly="1872" lrx="691" lry="1900" />
+
+<!-- seconda colonna-->
+        <zone ulx="706" uly="149" lrx="1319" lry="170" />
+        <zone ulx="707" uly="171" lrx="1324" lry="197" />
+        <zone ulx="714" uly="196" lrx="1321" lry="225" />
+        <zone ulx="706" uly="223" lrx="1323" lry="252" />
+        <zone ulx="705" uly="255" lrx="1321" lry="273" />
+        <zone ulx="708" uly="276" lrx="1318" lry="300" />
+        <zone ulx="706" uly="304" lrx="1309" lry="329" />
+        <zone ulx="711" uly="330" lrx="1321" lry="355" />
+        <zone ulx="707" uly="357" lrx="1327" lry="385" />
+        <zone ulx="707" uly="386" lrx="1316" lry="411" />
+        <zone ulx="710" uly="405" lrx="1322" lry="433" />
+        <zone ulx="709" uly="438" lrx="1325" lry="456" />
+        <zone ulx="706" uly="462" lrx="1320" lry="487" />
+        <zone ulx="706" uly="487" lrx="1314" lry="510" />
+        <zone ulx="708" uly="509" lrx="1325" lry="540" />
+        <zone ulx="704" uly="542" lrx="1323" lry="563" />
+        <zone ulx="710" uly="569" lrx="1319" lry="589" />
+        <zone ulx="710" uly="591" lrx="1320" lry="624" />
+        <zone ulx="707" uly="617" lrx="1324" lry="646" />
+        <zone ulx="706" uly="644" lrx="1321" lry="666" />
+        <zone ulx="704" uly="669" lrx="1327" lry="695" />
+        <zone ulx="709" uly="698" lrx="1324" lry="719" />
+        <zone ulx="710" uly="723" lrx="1324" lry="745" />
+        <zone ulx="707" uly="747" lrx="1327" lry="772" />
+        <zone ulx="707" uly="772" lrx="1321" lry="801" />
+        <zone ulx="710" uly="802" lrx="1324" lry="822" />
+        <zone ulx="707" uly="827" lrx="1322" lry="855" />
+        <zone ulx="709" uly="852" lrx="1324" lry="884" />
+        <zone ulx="709" uly="886" lrx="1329" lry="910" />
+        <zone ulx="708" uly="905" lrx="1034" lry="933" />
+
+        <!-- SCIENZE ECONOMICHE-->
+        <zone ulx="711" uly="976" lrx="1330" lry="1004" />
+        <zone ulx="733" uly="1009" lrx="961" lry="1028" />
+        <zone ulx="738" uly="1033" lrx="1323" lry="1060" />
+        <zone ulx="708" uly="1064" lrx="1319" lry="1090" />
+        <zone ulx="707" uly="1084" lrx="1322" lry="1119" />
+        <zone ulx="708" uly="1113" lrx="1325" lry="1142" />
+        <zone ulx="708" uly="1145" lrx="1321" lry="1167" />
+        <zone ulx="708" uly="1170" lrx="1325" lry="1191" />
+        <zone ulx="709" uly="1195" lrx="1321" lry="1220" />
+        <zone ulx="707" uly="1222" lrx="1322" lry="1245" />
+        <zone ulx="709" uly="1247" lrx="1321" lry="1272" />
+        <zone ulx="707" uly="1274" lrx="1318" lry="1296" />
+        <zone ulx="708" uly="1297" lrx="1323" lry="1327" />
+        <zone ulx="709" uly="1328" lrx="1325" lry="1351" />
+        <zone ulx="711" uly="1350" lrx="1324" lry="1378" />
+        <zone ulx="711" uly="1381" lrx="1325" lry="1403" />
+        <zone ulx="710" uly="1403" lrx="1325" lry="1430" />
+        <zone ulx="709" uly="1431" lrx="1323" lry="1455" />
+        <zone ulx="707" uly="1456" lrx="1322" lry="1482" />
+        <zone ulx="707" uly="1482" lrx="1323" lry="1509" />
+        <zone ulx="711" uly="1508" lrx="1326" lry="1538" />
+        <zone ulx="712" uly="1535" lrx="1327" lry="1558" />
+        <zone ulx="709" uly="1557" lrx="791" lry="1588" />
+
+    </surface>
+
+    <!-- Pagina 48: NOTIZIE prima colonna e prima notizia-->
+     <surface> 
+        <graphic url='Vol1-1878-1-S1-F3-pag48.png' width='1394px' height='2012px' />
+        <zone ulx="147" uly="1360" lrx="742" lry="1389" xml:id="pag 48_r1" />
+        <zone ulx="116" uly="1385" lrx="742" lry="1410" /> 
+        <zone ulx="111" uly="1413" lrx="254" lry="1433" />
+        <zone ulx="145" uly="1436" lrx="743" lry="1461" />
+        <zone ulx="128" uly="1460" lrx="738" lry="1483" />
+        <zone ulx="132" uly="1480" lrx="741" lry="1508" />
+        <zone ulx="119" uly="1500" lrx="738" lry="1534" />
+        <zone ulx="115" uly="1528" lrx="738" lry="1555" />
+        <zone ulx="113" uly="1558" lrx="744" lry="1581" />
+        <zone ulx="116" uly="1578" lrx="662" lry="1602" />
+
+
+    <!-- seconda colonna e ulitma notizia-->
+        <zone ulx="780" uly="1392" lrx="1380" lry="1417" />
+        <zone ulx="760" uly="1414" lrx="1384" lry="1436" />
+        <zone ulx="763" uly="1440" lrx="1384" lry="1465" />
+        <zone ulx="765" uly="1464" lrx="1386" lry="1488" />
+        <zone ulx="759" uly="1489" lrx="1379" lry="1511" />
+        <zone ulx="756" uly="1514" lrx="1383" lry="1532" />
+        <zone ulx="758" uly="1533" lrx="1383" lry="1559" />
+        <zone ulx="761" uly="1561" lrx="1383" lry="1583" />
+        <zone ulx="761" uly="1582" lrx="1375" lry="1607" />
+        <zone ulx="764" uly="1610" lrx="1381" lry="1632" />
+        <zone ulx="767" uly="1633" lrx="1382" lry="1655" />
+        <zone ulx="765" uly="1656" lrx="1377" lry="1682" />
+        <zone ulx="757" uly="1682" lrx="1372" lry="1698" />
+        <zone ulx="768" uly="1708" lrx="1382" lry="1727" />
+    </surface>    
+</facsimile>

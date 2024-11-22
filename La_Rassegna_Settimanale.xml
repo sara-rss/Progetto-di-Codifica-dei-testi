@@ -555,44 +555,45 @@
             <pb facs="#pag34" xml:id="checimetto"/>
             <cb n="1" xml:id="checimetto2"/> <!-- matilde qua ha messo il correspond-->
             <head rend="align(center) case(allcaps)" facs="#pag34_titolo" xml:id="checimetto3"> <!-- perché head e non title e perché ci vuole l'id-->
-                <lb/> Il Monumento a Vittorio Emanuele
+                <lb/> Il Monumento a <name type="person" ref="#re">Vittorio Emanuele</name> 
             </head>
+
             <ab type="articolo" n="1" xml:id="checimetto4"> <!-- ma che senso ha ripete tutte queste cose che ho messo già nel div-->
                 <lb xml:id="checimetto5" n="1" facs="#pag34_r1"/> <!-- per ogni riga devo ripetere sempre sta roba?????-->
                 Il gentile pensiero della sottoscrizione nazionale per un
-                <lb /> monumento al Re che ci ha lasciati, trae la sua delica- <lb break="no"/>
+                <lb /> monumento al <name role="sovereign" type="person" ref="re">Re</name> che ci ha lasciati, trae la sua delica- <lb break="no"/>
                 <lb /> tezza dalla spontaneità, dal sentimento affettuoso, quasi
                 <lb /> diremmo filiale di chiunque vi partecipa. Questa dimostra- <lb break="no"/>
-                zione, per non perdere buona parte del suo valore, e di
-                <lb /> fronte a noi stessi e di fronte all’ estero, dovrebbe mante- <lb break="no"/>
+                <lb /> zione, per non perdere buona parte del suo valore, e di
+                <lb /> fronte a noi stessi e di fronte all’ <!--questo?-->estero, dovrebbe mante- <lb break="no"/>
                 <lb /> nere fin nei più piccoli particolari, il carattere di una so- <lb break="no"/>
-                <lb /> lennità di famiglia; a ciascun cittadino dovrebb’esser la- <lb break="no"/>
+                <lb /> lennità di famiglia; a ciascun<!--questo?--> cittadino dovrebb’esser la- <lb break="no"/>
                 <lb /> sciato che vi partecipasse per conto proprio. Il giorno in
                 <lb /> cui l’infausta notizia si sparse per il paese, fu cosa natu- <lb break="no"/>
-                <lb /> rale e buona che le rappresentanze municipali, vicine alle
+                <lb /> rale e buona che le <!--questo?-->rappresentanze municipali, vicine alle
                 <lb /> popolazioni, usassero dei loro mezzi, che mancano ai pri- <lb break="no"/>
-                <lb /> vati, per manifestare prontamente alla rimanente Italia il
+                <lb /> vati, per manifestare prontamente alla rimanente <name type="place" ref="#it">Italia</name> il
                 <lb /> dolore comune. Codesto è uno dei rari casi ne’ quali la
-                <lb /> mancanza di ogni contrasto d’interesse e di partiti rende
-                <lb /> possibile, e in conseguenza lecito, ai Municipi il farsi eco
-                <lb /> dei sentimenti di tutti i cittadini sottoposti alla loro am- <lb break="no"/>
+                <lb /> mancanza di ogni contrasto d’interesse e di <name type="org">partiti</name> rende
+                <lb /> possibile, e in conseguenza lecito, ai <name type="org" ref="#comune"> Municipi </name> il farsi eco
+                <lb /> dei sentimenti di tutti i <name type="person">cittadini</name> sottoposti alla loro am- <lb break="no"/>
                 <lb /> ministrazione. Ma qui si fermò l’ufficio loro. Questi orga- <lb break="no"/>
 
-                <!-- seconda colonna-->
+                <!-- seconda colonna, ci va messo il cb???-->
                  <lb /> nismi intesi a far bilanci, esaminar conti, distribuire tasse,
-                 <lb /> far regolamenti di polizia sopra un dato territorio per conto
-                 <lb /> dei cittadini che 1’ abitano, se sono atti talvolta a farsi in- <lb break="no"/>
+                 <lb /> far regolamenti di <name type="org" ref="#polizia">polizia</name> sopra un dato territorio per conto
+                 <lb /> dei cittadini che l’abitano, se sono atti talvolta a farsi in- <lb break="no"/>
                  <lb /> terpreti dei loro sentimenti, non lo sono a identificarsi con
                  <lb /> essi, ed a far propri i sentimenti di tutti, al punto di tra- <lb break="no"/>
                  <lb /> durli in atto con aggravio dei bilanci. Le deliberazioni con le
-                 <lb /> quali vari Municipi contribuiscono al monumento nazio- <lb break="no"/>
+                 <lb /> quali vari <name type="org" ref="#comune">Municipi</name> contribuiscono al <!-- questo?-->monumento nazio- <lb break="no"/>
                  <lb /> nale, si traducono nel fatto in aggiunte alle cartelle con- <lb break="no"/>
-                 <lb /> segnate all’ esattore, per i poveri come per i ricchi, con
-                 <lb /> l’intervento al bisogno dell’ usciere e dei carabinieri, e col
+                 <lb /> segnate all’esattore, per i poveri come per i ricchi, con
+                 <lb /> l’intervento al bisogno dell’ usciere e dei <name type="org" ref="#carabinieri"> carabinieri </name>e col
                  <lb /> pignoramento e la vendita dei beni; e sono atte a mutare
                  <lb /> in sentimenti ben diversi in molti delle classi infime della
                  <lb /> popolazione, l’amore ed il rimpianto che adesso accompa- <lb break="no"/>
-                 <lb /> gnano al di là della tomba Colui che è partito.
+                 <lb /> gnano al di là della tomba <!-- quelo colui si riferisce a Vittorio Emanuele-->Colui che è partito.
                  <lb /> Si dimentica troppo spesso da tutti, dagli stessi nostri
                  <lb /> governanti, che le rappresentanze locali, e per la natura
                  <lb /> delle cose e per le nostre leggi, hanno mandato definito
@@ -600,66 +601,69 @@
                  <lb /> ed interpreti naturali in tutto e per tutto delle popolazioni
                  <lb /> che occupano i territori sottoposti alla loro amministra- <lb break="no"/>
                  <lb /> zione. Le prime ad ingannarsi in siffatto argomento sono
-                 <lb /> naturalmente le rappresentanze Comunali stesse. E con- <lb breka="no"/>
+                 <lb /> naturalmente le <name type="org" ref="#comune">rappresentanze Comunali</name> stesse. E con- <lb break="no"/>
                  <lb /> veniamo che molte tra esse, partecipi dell’illusione comune,
                  <lb /> nel votare le deliberazioni di cui parliamo, non credettero
-                 <lb /> fare altro che dare sfogo ai sentimenti che empivano il
+                 <lb /> fare altro che dare sfogo ai sentimenti che <!-- lo correggo?-->empivano il
                  <lb /> loro cuore.
                  <lb /> È necessario uno sforzo doloroso per sottrarsi al- <lb break="no"/>
                  <lb /> l'ambiente dell’emozione generale, ed analizzare minuta- <lb break="no"/>
                  <lb /> mente una di quelle universali manifestazioni di cui come
-                 <lb /> italiani ci compiacciamo tanto, per ricercarne i lati men
+                 <lb /> <!--questp?-->italiani ci compiacciamo tanto, per ricercarne i lati men
                  <lb /> belli. Ma le emozioni passano; rimane il malcontento risul- <lb break="no"/>
                  <lb /> tante da una misura improvvida, rimane il danno morale
                  <lb /> della nazione, rimane il precedente di una violazione della
                  <lb /> legge. Imperocchè molte fra le deliberazioni di cui si tratta
-                 <lb /> sono infrazioni alla legge del 14 giugno 1874 con la quale
+                 <lb /> sono infrazioni alla legge del <date when="1874-06-14"> 14 giugno 1874 </date> con la quale
                  <lb /> viene negata la licenza di fare spese facoltative a quei
-                 <lb /> Comuni i quali avessero ecceduto il limite normale della
+                 <lb /> <name type="org" ref="#comune">Comuni</name> i quali avessero ecceduto il limite normale della
                  <lb /> sovrimposta, e vietata addirittura ogni spesa che non sia
                  <lb /> d’interesse esclusivamente locale.
-                 <lb /> Non dubitiamo che il Ministro dell’Interno, nell’inte- <lb break="no"/>
-                 <lb /> resse della monarchia e del paese, userà i mezzi che ha
+                 <lb /> Non dubitiamo che il <name type="org" ref="#ministero">Ministero dell'Interno</name>, nell’inte- <lb break="no"/>
+                 <lb /> resse della <!-- uesto?-->monarchia e del <!-- magari che si riferisce a italia??-->paese, userà i mezzi che ha
                  <lb /> dalla legge per impedire che siano poste in atto quelle fra
                  <lb /> tali deliberazioni, che sono illegali.
                  <lb /> E gioverà forse qui ricordare un’ altra occasione in cui
-                 <lb /> l’Italia commossa alla notizia che Garibaldi era per accet- <lb break="no"/>
+                 <lb /> l’ <name type="place" ref="#it">Italia</name> commossa alla notizia che <name type="person" ref="#garibaldi"> Garibaldi</name> era per accet- <lb break="no"/>
                  <lb /> tare dall’ estero soccorsi per provvedere ai bisogni della
                  <lb /> sua famiglia, dette una spontanea manifestazione di ri- <lb break="no"/>
-                 <lb /> conoscenza nazionale, col votare che fecero molte Pro- <lb break="no"/>
-                 <lb /> vincie e Comuni somme ragguardevoli a favore del Gene- <lb break="no"/>
-                 <lb /> rale. — Allora il Governo annullò quelle deliberazioni, e
+                 <lb /> conoscenza nazionale, col votare che fecero molte <name type="org" ref="#provincia"> Pro- <lb break="no"/>
+                 <lb /> vincie </name> e <name type="org" ref="#comune">Comuni</name> somme ragguardevoli a favore del <!--questo?--> Gene- <lb break="no"/>
+                 <lb /> rale. — Allora il <name type="org" ref="#governo">Governo</name> annullò quelle deliberazioni, e
                  <lb /> fece bene.
                  <lb /> Non sapremmo poi lasciare l’argomento senza espri- <lb break="no"/>
-                 <lb /> mere la nostra alta maraviglia che Consigli di direzione
-                 <lb /> di Banche e di Casse di risparmio si siano fatti lecito in
+                 <lb /> mere la nostra alta<choice><orig>maraviglia</orig><reg>meraviglia</reg></choice> che <name type="org" ref="#consiglio">Consiglio di direzione</name> 
+                 <lb /> di <name type="org" ref="#banca">Banche</name> e di <name type="org" ref="#banca">Casse di risparmio</name> si siano fatti lecito in
                  <lb /> quest’ occasione disporre di somme appartenenti agl’isti- <lb break="no"/>
                  <lb /> tuti economici, che dovrebbero amministrare, a scopi total- <lb break="no"/>
                  <lb /> mente estranei al loro ufficio. Per questi signori non sa- <lb break="no"/>
                  <lb /> premmo davvero escogitare scusa di sorta. Per quanto
                  <lb /> nobile e grande possa essere uno scopo, a nessuno è lecito
-                 <lb /> disporre di quello d’ altri per conseguirlo; e qui si tratta di
+                 <lb /> disporre di quello d’altri per conseguirlo; e qui si tratta di
                  <lb /> denari degli azionisti, e peggio ancora dei poveri. Non si
                  <lb /> onorano i grandi col mancare al proprio ufficio, e col dare
                  <lb /> al paese esempio di trascuranza ai propri doveri.
-                 <lb /> Tocca soltanto ai privati cittadini 1’ ordinare la dimo- <lb break="no"/>
-                 <lb /> strazione nazionale, affinchè niuno possa venir poi ad ac- <lb break="no"/>
-                 <lb /> cusarla di essere stata ufficiale. Si formino dappertutto Co- <lb break="no"/>
-                 <lb /> mitati, e questi dispongano la sottoscrizione in modo che 
+                 <lb /> Tocca soltanto ai privati cittadini l’ordinare la dimo- <lb break="no"/>
+                 <lb /> strazione nazionale, affinchè <distinct type="archaic"><choice><orig>niuno</orig><reg>nessuno</reg></choice></distinct> possa venir poi ad ac- <lb break="no"/>
+                 <lb /> cusarla di essere stata ufficiale. Si formino dappertutto <name type="org" ref="#comitato"> Co- <lb break="no"/>
+                 <lb /> mitati </name>, e questi dispongano la sottoscrizione in modo che 
             </ab>
-        </div>
+        </div> 
 
-                <!-- pagina 35-->
+        <!-- pagina 35 ci va messo il div?-->   
+        <pb facs="#pag35" xml:id="checimetto"/>
+        <cb n="3" xml:id="checimetto2"/>
+                
             <ab>
-                <lb /> non vi sia così remoto paese d’Italia o così povera borsa che
+                <lb /> non vi sia così remoto paese d’ <name type="place" ref="#it">Italia</name> o così povera borsa che
                 <lb /> non possano contribuire al monumento della nostra ricono- <lb break="no"/>
-                <lb /> scenza e del nostro amore per Colui che tanto fece per noi.
+                <lb /> scenza e del nostro amore per <!--anche quii-->Colui che tanto fece per noi.
             </ab>
 
 <!-- pagina 43 LETTERATURA DRAMMATICA-->
  <div type="articolo" n="2">
     <pb facs="#pag43" xml:id="bo"/> 
-    <cb n="2" xml:id="bo1"/> 
+    <cb n="4" xml:id="bo1"/> 
     <head rend="align(center) case(allcaps)" facs="#pag43" xml:id="bo2">
         <lb /> Letteratura Drammatica.
     </head>

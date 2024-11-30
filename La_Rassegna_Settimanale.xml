@@ -1,0 +1,1505 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "tei_all.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title> 
+                    Frammenti digitali de La Rassegna Settimanale, Vol. 1, Fascicolo 3
+                </title>
+                <respStmt>
+                    <resp>Edizione digitale a cura di</resp>
+                    <persName>
+                        <forename>Sara</forename>
+                        <surname>Rossi</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+
+            <publicationStmt>
+                <publisher>Università di Pisa</publisher>
+                <pubPlace>Pisa (PI)</pubPlace>
+                <date>2024</date>
+                <availability status="free">
+                <p>Il progetto è gratuito e consultabile al link: </p>
+                </availability>
+                <ref target="https://github.com/sara-rss"/>
+            </publicationStmt>
+           
+            <sourceDesc>
+                <bibl>
+                    <title type="main" xml:id="rasssegnasett">La Rassegna Settimanale </title>
+                    <title type="sub">di politica, scienza, lettere ed arti. Volume 1, 1878</title>
+                    <publisher>Casa Editrice Barbèra</publisher>
+                    <pubPlace>Firenze</pubPlace>
+                    <editor>
+                        <persName>
+                            <forename>Leopoldo</forename> 
+                            <surname>Franchetti</surname>
+                        </persName>
+                        <persName>
+                            <forename>Sydney</forename>
+                            <surname>Sonnino</surname>
+                        </persName>
+                    </editor>
+                    <date>1878</date>
+                    <note>
+                    La digitalizzazione e l'indicizzazione della Rassegna Settimanale sono state realizzate nell'ambito delle celebrazioni per il centenario della morte di 
+                    <persName>Leopoldo Franchetti</persName>, grazie alla collaborazione dell'<orgName>Associazione Nazionale per gli Interessi del Mezzogiorno d’Italia</orgName>, 
+                    dell'<orgName>Università degli Studi Suor Orsola Benincasa</orgName> e del <orgName>Comitato Nazionale per il Centenario della Morte di Leopoldo Franchetti</orgName>.
+                    </note>
+                    <note>La scansione digitale dell'intera rivista è consultabile al link: </note>
+                    <note><ref target="https://rassegnasettimanale.animi.it"></ref></note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+            
+        <encodingDesc> 
+            <projectDesc>
+                <p>Il progetto è stato realizzato per il corso di Codifca di testi a.a. <date> 2023/2024</date></p>
+            </projectDesc>
+
+            <editorialDecl>
+                <normalization method ="silent"> 
+                    <p>La spaziatura tra le parole e la punteggiatura successiva è stata uniformata a zero, mentre quella tra le parole è stata uniformata a un singolo spazio. </p>
+                </normalization> 
+                <hyphenation eol="some">
+                    <p>Nel testo codificato sono presenti i trattini di sillabazione presenti a fine riga, la divisione della parola è segnalata dal tag 'lb break'.</p>
+                </hyphenation>
+                <quotation marks="all">
+                    <p>Tutte le virgolette sono state mantenute e rappresentate dai caratteri appropriati.</p>
+                </quotation>
+            </editorialDecl>
+
+                <projectDesc>
+                    <p>Il progetto è stato realizzato per l'esame di Codfica di testi dell'<orgName>Università di Pisa</orgName> 
+                        a.a. <date> 2023/2024</date></p>
+                </projectDesc>
+
+            <samplingDecl>
+                <p> Sono stati codificati due articoli, due entrate della sezione Bibliografia e due entrate della sezione Notizie</p>
+            </samplingDecl>
+        </encodingDesc>
+       </teiHeader>
+
+
+<facsimile>
+    <surface n="1" xml:id="pag34"> 
+        <graphic url='Vol1-1878-1-S1-F3-pag34.png' width='1384px' height='1998px' />
+
+        <!-- Pagina 34: MONUMENTO A VITTORIO EMANUELE prima colonna-->
+        <zone ulx="151" uly="1331" lrx="710" lry="1362" xml:id="pag34_titolo" />
+        <zone ulx="334" uly="1373" lrx="526" lry="1396" xml:id="pag34_sottotitolo" />
+        <zone ulx="159" uly="1405" lrx="732" lry="1435" xml:id="pag34_r1" />
+        <zone ulx="130" uly="1437" lrx="732" lry="1460" xml:id="pag34_r2" />
+        <zone ulx="128" uly="1460" lrx="736" lry="1484" xml:id="pag34_r3" />
+        <zone ulx="130" uly="1485" lrx="733" lry="1512" xml:id="pag34_r4" />
+        <zone ulx="128" uly="1514" lrx="737" lry="1542" xml:id="pag34_r5" />
+        <zone ulx="123" uly="1542" lrx="732" lry="1567" xml:id="pag34_r6" />
+        <zone ulx="127" uly="1568" lrx="730" lry="1588" xml:id="pag34_r7" />
+        <zone ulx="128" uly="1589" lrx="735" lry="1618" xml:id="pag34_r8" />
+        <zone ulx="129" uly="1620" lrx="736" lry="1644" xml:id="pag34_r9" />
+        <zone ulx="128" uly="1644" lrx="734" lry="1670" xml:id="pag34_r10" />
+        <zone ulx="128" uly="1673" lrx="731" lry="1695" xml:id="pag34_r11" />
+        <zone ulx="127" uly="1697" lrx="736" lry="1720" xml:id="pag34_r12" />
+        <zone ulx="129" uly="1723" lrx="737" lry="1749" xml:id="pag34_r13" />
+        <zone ulx="127" uly="1750" lrx="734" lry="1773" xml:id="pag34_r14" />
+        <zone ulx="125" uly="1774" lrx="734" lry="1798" xml:id="pag34_r15" />
+        <zone ulx="124" uly="1802" lrx="736" lry="1824" xml:id="pag34_r16" />
+        <zone ulx="128" uly="1828" lrx="731" lry="1850" xml:id="pag34_r17" />
+        <zone ulx="127" uly="1855" lrx="730" lry="1882" xml:id="pag34_r18" />
+        
+        <!-- seconda colonna -->
+        <zone ulx="732" uly="133" lrx="1361" lry="165" xml:id="pag34_r19" />
+        <zone ulx="754" uly="163" lrx="1359" lry="183" xml:id="pag34_r20" />
+        <zone ulx="753" uly="188" lrx="1354" lry="212" xml:id="pag34_r21" />
+        <zone ulx="749" uly="216" lrx="1352" lry="237" xml:id="pag34_r22" />
+        <zone ulx="753" uly="242" lrx="1359" lry="264" xml:id="pag34_r23" />
+        <zone ulx="752" uly="273" lrx="1362" lry="289" xml:id="pag34_r24" />
+        <zone ulx="755" uly="296" lrx="1347" lry="314" xml:id="pag34_r25" />
+        <zone ulx="758" uly="321" lrx="1358" lry="339" xml:id="pag34_r26" />
+        <zone ulx="753" uly="348" lrx="1357" lry="370" xml:id="pag34_r27" />
+        <zone ulx="752" uly="371" lrx="1358" lry="395" xml:id="pag34_r28" />
+        <zone ulx="752" uly="404" lrx="1351" lry="419" xml:id="pag34_r29" />
+        <zone ulx="746" uly="423" lrx="1353" lry="448" xml:id="pag34_r30" />
+        <zone ulx="752" uly="447" lrx="1366" lry="469" xml:id="pag34_r31" />
+        <zone ulx="753" uly="475" lrx="1245" lry="499" xml:id="pag34_r32" />
+        <zone ulx="775" uly="503" lrx="1359" lry="522" xml:id="pag34_r33" />
+        <zone ulx="749" uly="523" lrx="1365" lry="552" xml:id="pag34_r34" />
+        <zone ulx="755" uly="555" lrx="1353" lry="578" xml:id="pag34_r35" />
+        <zone ulx="749" uly="579" lrx="1358" lry="601" xml:id="pag34_r36" />
+        <zone ulx="745" uly="602" lrx="1355" lry="629" xml:id="pag34_r37" />
+        <zone ulx="749" uly="635" lrx="1352" lry="655" xml:id="pag34_r38" />
+        <zone ulx="755" uly="660" lrx="1362" lry="681" xml:id="pag34_r39" />
+        <zone ulx="751" uly="683" lrx="1357" lry="704" xml:id="pag34_r40" />
+        <zone ulx="752" uly="709" lrx="1360" lry="733" xml:id="pag34_r41" />
+        <zone ulx="749" uly="736" lrx="1364" lry="756" xml:id="pag34_r42" />
+        <zone ulx="755" uly="760" lrx="1366" lry="788" xml:id="pag34_r43" />
+        <zone ulx="748" uly="783" lrx="862" lry="811" xml:id="pag34_r44" />
+        <zone ulx="772" uly="809" lrx="1361" lry="835" xml:id="pag34_r45" />
+        <zone ulx="754" uly="837" lrx="1350" lry="862" xml:id="pag34_r46" />
+        <zone ulx="752" uly="864" lrx="1355" lry="885" xml:id="pag34_r47" />
+        <zone ulx="747" uly="888" lrx="1360" lry="914" xml:id="pag34_r48" />
+        <zone ulx="751" uly="914" lrx="1357" lry="943" xml:id="pag34_r49" />
+        <zone ulx="760" uly="941" lrx="1362" lry="969" xml:id="pag34_r50" />
+        <zone ulx="746" uly="971" lrx="1352" lry="990" xml:id="pag34_r51" />
+        <zone ulx="749" uly="994" lrx="1357" lry="1016" xml:id="pag34_r52" />
+        <zone ulx="750" uly="1024" lrx="1360" lry="1043" xml:id="pag34_r53" />
+        <zone ulx="754" uly="1048" lrx="1355" lry="1069" xml:id="pag34_r54" />
+        <zone ulx="753" uly="1068" lrx="1355" lry="1095" xml:id="pag34_r55" />
+        <zone ulx="751" uly="1101" lrx="1364" lry="1120" xml:id="pag34_r56" />
+        <zone ulx="751" uly="1122" lrx="1104" lry="1146" xml:id="pag34_r57" />
+        <zone ulx="778" uly="1151" lrx="1352" lry="1171" xml:id="pag34_r58" />
+        <zone ulx="753" uly="1174" lrx="1358" lry="1197" xml:id="pag34_r59" />
+        <zone ulx="750" uly="1201" lrx="1361" lry="1227" xml:id="pag34_r60" />
+        <zone ulx="752" uly="1231" lrx="1123" lry="1253" xml:id="pag34_r61" />
+        <zone ulx="779" uly="1252" lrx="1354" lry="1274" xml:id="pag34_r62" />
+        <zone ulx="748" uly="1279" lrx="1359" lry="1302" xml:id="pag34_r63" />
+        <zone ulx="752" uly="1306" lrx="1356" lry="1328" xml:id="pag34_r64" />
+        <zone ulx="749" uly="1334" lrx="1367" lry="1359" xml:id="pag34_r65" />
+        <zone ulx="749" uly="1367" lrx="1359" lry="1388" xml:id="pag34_r66" />
+        <zone ulx="752" uly="1391" lrx="1369" lry="1405" xml:id="pag34_r67" />
+        <zone ulx="756" uly="1403" lrx="1367" lry="1439" xml:id="pag34_r68" />
+        <zone ulx="755" uly="1434" lrx="869" lry="1462" xml:id="pag34_r69" />
+        <zone ulx="778" uly="1463" lrx="1362" lry="1491" xml:id="pag34_r70" />
+        <zone ulx="755" uly="1492" lrx="1359" lry="1509" xml:id="pag34_r71" />
+        <zone ulx="758" uly="1513" lrx="1360" lry="1539" xml:id="pag34_r72" />
+        <zone ulx="753" uly="1546" lrx="1361" lry="1564" xml:id="pag34_r73" />
+        <zone ulx="753" uly="1571" lrx="1355" lry="1592" xml:id="pag34_r74" />
+        <zone ulx="751" uly="1597" lrx="1369" lry="1619" xml:id="pag34_r75" />
+        <zone ulx="753" uly="1626" lrx="1358" lry="1641" xml:id="pag34_r76" />
+        <zone ulx="753" uly="1644" lrx="1367" lry="1668" xml:id="pag34_r77" />
+        <zone ulx="749" uly="1669" lrx="1363" lry="1692" xml:id="pag34_r78" />
+        <zone ulx="759" uly="1699" lrx="1368" lry="1720" xml:id="pag34_r79" />
+        <zone ulx="757" uly="1723" lrx="1363" lry="1743" xml:id="pag34_r80" />
+        <zone ulx="756" uly="1753" lrx="1278" lry="1776" xml:id="pag34_r81" />
+        <zone ulx="778" uly="1781" lrx="1360" lry="1801" xml:id="pag34_r82" />
+        <zone ulx="759" uly="1808" lrx="1360" lry="1823" xml:id="pag34_r83" />
+        <zone ulx="755" uly="1827" lrx="1359" lry="1848" xml:id="pag34_r84" />
+        <zone ulx="757" uly="1851" lrx="1358" lry="1874" xml:id="pag34_r85" />
+    </surface>
+
+    <!-- Pagina 35-->
+    <surface n="2" xml:id="pag35">
+        <graphic url='Vol1-1878-1-S1-F3-pag35.png' width='1350px' height='2020px' />
+        <zone ulx="48" uly="112" lrx="653" lry="142" xml:id="pag35_r1" />
+        <zone ulx="50" uly="144" lrx="654" lry="165" xml:id="pag35_r2" />
+        <zone ulx="48" uly="163" lrx="651" lry="194" xml:id="pag35_r3" />
+    </surface>
+    
+    <!-- Pagina 43: LETTERATURA DRAMMATICA prima colonna-->
+    <surface n="3" xml:id="pag43">
+        <graphic url='Vol1-1878-1-S1-F3-pag43.png' width='1370px' height='2024px' />
+        <zone ulx="181" uly="1402" lrx="583" lry="1436" xml:id="pag43_titolo" />
+        <zone ulx="112" uly="1443" lrx="683" lry="1468" xml:id="pag43_r1" />
+        <zone ulx="81" uly="1476" lrx="683" lry="1494" xml:id="pag43_r2" />
+        <zone ulx="76" uly="1500" lrx="687" lry="1518" xml:id="pag43_r3" />
+        <zone ulx="76" uly="1517" lrx="687" lry="1544" xml:id="pag43_r4" />
+        <zone ulx="83" uly="1545" lrx="682" lry="1575" xml:id="pag43_r5" />
+        <zone ulx="86" uly="1573" lrx="683" lry="1592" xml:id="pag43_r6" />
+        <zone ulx="82" uly="1600" lrx="688" lry="1624" xml:id="pag43_r7" />
+        <zone ulx="82" uly="1626" lrx="685" lry="1649" xml:id="pag43_r8" />
+        <zone ulx="79" uly="1654" lrx="686" lry="1672" xml:id="pag43_r9" />
+        <zone ulx="83" uly="1676" lrx="690" lry="1695" xml:id="pag43_r10" />
+        <zone ulx="79" uly="1700" lrx="682" lry="1722" xml:id="pag43_r11" />
+        <zone ulx="77" uly="1727" lrx="679" lry="1748" xml:id="pag43_r12" />
+        <zone ulx="77" uly="1754" lrx="682" lry="1776" xml:id="pag43_r13" />
+        <zone ulx="75" uly="1777" lrx="681" lry="1802" xml:id="pag43_r14" />
+        <zone ulx="88" uly="1806" lrx="681" lry="1827" xml:id="pag43_r15" />
+        <zone ulx="77" uly="1831" lrx="679" lry="1852" xml:id="pag43_r16" />
+
+        <!-- seconda colonna-->
+        <zone ulx="701" uly="124" lrx="1310" lry="142" xml:id="pag43_r17"/>
+        <zone ulx="705" uly="145" lrx="1310" lry="170" xml:id="pag43_r18" />
+        <zone ulx="704" uly="174" lrx="1106" lry="195" xml:id="pag43_r19" />
+        <zone ulx="716" uly="192" lrx="1305" lry="224" xml:id="pag43_r20" />
+        <zone ulx="704" uly="223" lrx="1309" lry="248" xml:id="pag43_r21" />
+        <zone ulx="701" uly="246" lrx="1305" lry="275" xml:id="pag43_r22" />
+        <zone ulx="704" uly="280" lrx="1304" lry="300" xml:id="pag43_r23" />
+        <zone ulx="705" uly="306" lrx="1308" lry="326" xml:id="pag43_r24" />
+        <zone ulx="704" uly="328" lrx="1308" lry="356" xml:id="pag43_r25" />
+        <zone ulx="699" uly="354" lrx="1305" lry="384" xml:id="pag43_r26" />
+        <zone ulx="702" uly="382" lrx="1301" lry="403" xml:id="pag43_r27" />
+        <zone ulx="706" uly="414" lrx="1310" lry="428" xml:id="pag43_r28" />
+        <zone ulx="700" uly="437" lrx="1308" lry="453" xml:id="pag43_r29" />
+        <zone ulx="703" uly="462" lrx="1303" lry="484" xml:id="pag43_r30" />
+        <zone ulx="702" uly="487" lrx="1309" lry="515" xml:id="pag43_r31" />
+        <zone ulx="701" uly="515" lrx="1303" lry="534" xml:id="pag43_r32" />
+        <zone ulx="699" uly="537" lrx="1308" lry="559" xml:id="pag43_r33" />
+        <zone ulx="702" uly="562" lrx="1303" lry="589" xml:id="pag43_r34" />
+        <zone ulx="708" uly="592" lrx="1327" lry="620" xml:id="pag43_r35" />
+        <zone ulx="703" uly="625" lrx="1302" lry="638" xml:id="pag43_r36" />
+        <zone ulx="701" uly="641" lrx="1302" lry="665" xml:id="pag43_r37" />
+        <zone ulx="703" uly="669" lrx="1302" lry="685" xml:id="pag43_r38" />
+        <zone ulx="700" uly="698" lrx="1304" lry="708" xml:id="pag43_r39" />
+        <zone ulx="703" uly="718" lrx="1302" lry="739" xml:id="pag43_r40" />
+        <zone ulx="702" uly="749" lrx="1299" lry="767" xml:id="pag43_r41" />        
+        <zone ulx="700" uly="775" lrx="1301" lry="791" xml:id="pag43_r42" />
+        <zone ulx="700" uly="794" lrx="1303" lry="818" xml:id="pag43_r43" />
+        <zone ulx="699" uly="820" lrx="1306" lry="843" xml:id="pag43_r44" />
+        <zone ulx="695" uly="848" lrx="1308" lry="872" xml:id="pag43_r45" />
+        <zone ulx="700" uly="878" lrx="1299" lry="893" xml:id="pag43_r46" />
+        <zone ulx="723" uly="899" lrx="1300" lry="917" xml:id="pag43_r47" />
+        <zone ulx="706" uly="931" lrx="1307" lry="945" xml:id="pag43_r48" />
+        <zone ulx="701" uly="954" lrx="1304" lry="974" xml:id="pag43_r49" />
+        <zone ulx="704" uly="975" lrx="947" lry="1001" xml:id="pag43_r50" />
+        <zone ulx="733" uly="1004" lrx="1310" lry="1023" xml:id="pag43_r51" />
+        <zone ulx="706" uly="1026" lrx="1312" lry="1052" xml:id="pag43_r52" />
+        <zone ulx="708" uly="1058" lrx="1304" lry="1078" xml:id="pag43_r53" />
+        <zone ulx="695" uly="1085" lrx="1306" lry="1100" xml:id="pag43_r54" />
+        <zone ulx="692" uly="1107" lrx="1316" lry="1129" xml:id="pag43_r55" />
+        <zone ulx="700" uly="1131" lrx="1304" lry="1152" xml:id="pag43_r56" />
+        <zone ulx="704" uly="1162" lrx="1308" lry="1180" xml:id="pag43_r57" />
+        <zone ulx="705" uly="1180" lrx="1304" lry="1204" xml:id="pag43_r58" />
+        <zone ulx="701" uly="1209" lrx="1301" lry="1232" xml:id="pag43_r59" />
+        <zone ulx="698" uly="1234" lrx="1305" lry="1258" xml:id="pag43_r60" />
+        <zone ulx="703" uly="1260" lrx="1301" lry="1283" xml:id="pag43_r61" />
+        <zone ulx="702" uly="1288" lrx="1302" lry="1312" xml:id="pag43_r62" />
+        <zone ulx="700" uly="1314" lrx="1305" lry="1337" xml:id="pag43_r63" />
+        <zone ulx="706" uly="1342" lrx="1313" lry="1360" xml:id="pag43_r64" />
+        <zone ulx="703" uly="1364" lrx="1306" lry="1389" xml:id="pag43_r65" />
+        <zone ulx="693" uly="1395" lrx="1302" lry="1411" xml:id="pag43_r66" />
+        <zone ulx="703" uly="1415" lrx="1298" lry="1436" xml:id="pag43_r67" />
+        <zone ulx="702" uly="1441" lrx="1302" lry="1463" xml:id="pag43_r68" />
+        <zone ulx="700" uly="1471" lrx="1300" lry="1490" xml:id="pag43_r69" />
+        <zone ulx="702" uly="1496" lrx="1301" lry="1518" xml:id="pag43_r70" />
+        <zone ulx="704" uly="1525" lrx="1303" lry="1544" xml:id="pag43_r71" />
+        <zone ulx="702" uly="1542" lrx="1303" lry="1571" xml:id="pag43_r72" />
+        <zone ulx="733" uly="1571" lrx="1298" lry="1597" xml:id="pag43_r73" />
+        <zone ulx="703" uly="1602" lrx="1307" lry="1621" xml:id="pag43_r74" />
+        <zone ulx="707" uly="1627" lrx="1303" lry="1649" xml:id="pag43_r75" />
+        <zone ulx="703" uly="1652" lrx="1307" lry="1673" xml:id="pag43_r76" />
+        <zone ulx="702" uly="1676" lrx="1305" lry="1699" xml:id="pag43_r77" />
+        <zone ulx="702" uly="1699" lrx="1304" lry="1724" xml:id="pag43_r78" />
+        <zone ulx="703" uly="1723" lrx="1308" lry="1753" xml:id="pag43_r79" />
+        <zone ulx="703" uly="1754" lrx="1301" lry="1771" xml:id="pag43_r80" />
+        <zone ulx="696" uly="1774" lrx="1307" lry="1802" xml:id="pag43_r81" />
+        <zone ulx="701" uly="1806" lrx="1310" lry="1827" xml:id="pag43_r82" />
+        <zone ulx="703" uly="1830" lrx="1305" lry="1848" xml:id="pag43_r83" />
+    </surface>
+
+    <!-- Pagina 44: prima colonna-->
+    <surface n="4" xml:id="pag44">
+        <graphic url='Vol1-1878-1-S1-F3-pag44.png' width='1364px' height='2014px' />
+        <zone ulx="98" uly="146" lrx="704" lry="176" xml:id="pag44_r1" />
+        <zone ulx="91" uly="173" lrx="705" lry="199" xml:id="pag44_r2" />
+        <zone ulx="93" uly="201" lrx="405" lry="225" xml:id="pag44_r3" />
+        <zone ulx="116" uly="225" lrx="697" lry="251" xml:id="pag44_r4" />
+        <zone ulx="93" uly="249" lrx="698" lry="278" xml:id="pag44_r5" />
+        <zone ulx="90" uly="277" lrx="705" lry="303" xml:id="pag44_r6" />
+        <zone ulx="87" uly="304" lrx="700" lry="329" xml:id="pag44_r7" />
+        <zone ulx="88" uly="330" lrx="701" lry="358" xml:id="pag44_r8" />
+        <zone ulx="91" uly="357" lrx="696" lry="383" xml:id="pag44_r9" />
+        <zone ulx="90" uly="384" lrx="700" lry="408" xml:id="pag44_r10" />
+        <zone ulx="91" uly="416" lrx="702" lry="437" xml:id="pag44_r11" />
+        <zone ulx="91" uly="435" lrx="697" lry="458" xml:id="pag44_r12" />
+        <zone ulx="91" uly="458" lrx="703" lry="486" xml:id="pag44_r13" />
+        <zone ulx="91" uly="487" lrx="701" lry="510" xml:id="pag44_r14" />
+        <zone ulx="97" uly="517" lrx="697" lry="539" xml:id="pag44_r15" />
+        <zone ulx="90" uly="542" lrx="699" lry="564" xml:id="pag44_r16" />
+        <zone ulx="90" uly="569" lrx="702" lry="593" xml:id="pag44_r17" />
+        <zone ulx="90" uly="592" lrx="707" lry="615" xml:id="pag44_r18" />
+        <zone ulx="91" uly="618" lrx="701" lry="637" xml:id="pag44_r19" />
+        <zone ulx="99" uly="645" lrx="704" lry="666" xml:id="pag44_r20" />
+        <zone ulx="94" uly="668" lrx="700" lry="690" xml:id="pag44_r21" />
+        <zone ulx="95" uly="700" lrx="703" lry="713" xml:id="pag44_r22" />
+        <zone ulx="96" uly="724" lrx="702" lry="744" xml:id="pag44_r23" />
+        <zone ulx="96" uly="748" lrx="705" lry="770" xml:id="pag44_r24" />
+        <zone ulx="93" uly="772" lrx="698" lry="801" xml:id="pag44_r25" />
+        <zone ulx="92" uly="804" lrx="704" lry="825" xml:id="pag44_r26" />
+        <zone ulx="92" uly="828" lrx="706" lry="849" xml:id="pag44_r27" />
+        <zone ulx="91" uly="855" lrx="707" lry="877" xml:id="pag44_r28" />
+        <zone ulx="95" uly="878" lrx="706" lry="904" xml:id="pag44_r29" />
+        <zone ulx="95" uly="907" lrx="702" lry="931" xml:id="pag44_r30" />
+        <zone ulx="97" uly="930" lrx="705" lry="957" xml:id="pag44_r31" />
+        <zone ulx="95" uly="955" lrx="701" lry="984" xml:id="pag44_r32" />
+        <zone ulx="96" uly="985" lrx="708" lry="1004" xml:id="pag44_r33" />
+        <zone ulx="91" uly="1011" lrx="709" lry="1034" xml:id="pag44_r34" />
+        <zone ulx="95" uly="1038" lrx="700" lry="1057" xml:id="pag44_r35" />
+        <zone ulx="91" uly="1059" lrx="703" lry="1085" xml:id="pag44_r36" />
+        <zone ulx="95" uly="1085" lrx="708" lry="1111" xml:id="pag44_r37" />
+        <zone ulx="89" uly="1108" lrx="707" lry="1138" xml:id="pag44_r38" />
+        <zone ulx="98" uly="1140" lrx="704" lry="1167" xml:id="pag44_r39" />
+        <zone ulx="96" uly="1167" lrx="706" lry="1194" xml:id="pag44_r40" />
+        <zone ulx="95" uly="1195" lrx="704" lry="1218" xml:id="pag44_r41" />
+        <zone ulx="93" uly="1218" lrx="703" lry="1242" xml:id="pag44_r42" />
+        <zone ulx="94" uly="1243" lrx="703" lry="1268" xml:id="pag44_r43" />
+        <zone ulx="95" uly="1273" lrx="705" lry="1297" xml:id="pag44_r44" />
+        <zone ulx="96" uly="1298" lrx="708" lry="1321" xml:id="pag44_r45" />
+        <zone ulx="96" uly="1322" lrx="704" lry="1347" xml:id="pag44_r46" />
+        <zone ulx="86" uly="1343" lrx="702" lry="1375" xml:id="pag44_r47" />
+        <zone ulx="84" uly="1378" lrx="701" lry="1398" xml:id="pag44_r48" />
+        <zone ulx="93" uly="1397" lrx="698" lry="1427" xml:id="pag44_r49" />
+        <zone ulx="92" uly="1431" lrx="711" lry="1450" xml:id="pag44_r50" />
+        <zone ulx="87" uly="1449" lrx="702" lry="1472" xml:id="pag44_r51" />
+        <zone ulx="91" uly="1481" lrx="715" lry="1498" xml:id="pag44_r52" />
+        <zone ulx="90" uly="1499" lrx="709" lry="1530" xml:id="pag44_r53" />
+        <zone ulx="92" uly="1526" lrx="706" lry="1552" xml:id="pag44_r54" />
+        <zone ulx="91" uly="1556" lrx="706" lry="1576" xml:id="pag44_r55" />
+        <zone ulx="94" uly="1581" lrx="608" lry="1601" xml:id="pag44_r56" />
+        <zone ulx="123" uly="1604" lrx="709" lry="1631" xml:id="pag44_r57" />
+        <zone ulx="94" uly="1631" lrx="706" lry="1659" xml:id="pag44_r58" />
+        <zone ulx="87" uly="1657" lrx="707" lry="1679" xml:id="pag44_r59" />
+        <zone ulx="88" uly="1686" lrx="708" lry="1712" xml:id="pag44_r60" />
+        <zone ulx="84" uly="1709" lrx="711" lry="1736" xml:id="pag44_r61" />
+        <zone ulx="90" uly="1739" lrx="705" lry="1760" xml:id="pag44_r62" />
+        <zone ulx="88" uly="1755" lrx="709" lry="1784" xml:id="pag44_r63" />
+        <zone ulx="92" uly="1790" lrx="707" lry="1812" xml:id="pag44_r64" />
+        <zone ulx="89" uly="1817" lrx="710" lry="1839" xml:id="pag44_r65" />
+        <zone ulx="93" uly="1847" lrx="704" lry="1866" xml:id="pag44_r66" />
+        <zone ulx="92" uly="1869" lrx="176" lry="1895" xml:id="pag44_r67" />
+
+
+    <!--seconda colonna-->
+        <zone ulx="760" uly="136" lrx="1332" lry="173" xml:id="pag44_r68" />
+        <zone ulx="715" uly="182" lrx="1341" lry="201" xml:id="pag44_r69" />
+        <zone ulx="718" uly="204" lrx="1333" lry="223" xml:id="pag44_r70" />
+        <zone ulx="716" uly="226" lrx="1335" lry="248" xml:id="pag44_r71" />
+        <zone ulx="717" uly="256" lrx="1336" lry="280" xml:id="pag44_r72" />
+        <zone ulx="726" uly="285" lrx="1332" lry="303" xml:id="pag44_r73" />
+        <zone ulx="721" uly="307" lrx="1340" lry="334" xml:id="pag44_r74" />
+        <zone ulx="723" uly="337" lrx="1341" lry="359" xml:id="pag44_r75" />
+        <zone ulx="722" uly="360" lrx="1338" lry="382" xml:id="pag44_r76" />
+        <zone ulx="726" uly="383" lrx="1336" lry="405" xml:id="pag44_r77" />
+        <zone ulx="724" uly="413" lrx="1343" lry="435" xml:id="pag44_r78" />
+        <zone ulx="721" uly="435" lrx="1019" lry="463" xml:id="pag44_r79" />
+        <zone ulx="955" uly="474" lrx="1136" lry="493" xml:id="pag44_r80" />
+        <zone ulx="878" uly="494" lrx="1154" lry="517" xml:id="pag44_r81" />
+        <zone ulx="722" uly="534" lrx="1338" lry="557" xml:id="pag44_r82" />
+        <zone ulx="723" uly="560" lrx="1340" lry="585" xml:id="pag44_r83" />
+        <zone ulx="726" uly="587" lrx="1333" lry="610" xml:id="pag44_r84" />
+        <zone ulx="744" uly="612" lrx="1336" lry="636" xml:id="pag44_r85" />
+        <zone ulx="722" uly="640" lrx="1333" lry="663" xml:id="pag44_r86" />
+        <zone ulx="724" uly="664" lrx="1335" lry="689" xml:id="pag44_r87" />
+        <zone ulx="724" uly="692" lrx="1344" lry="714" xml:id="pag44_r88" />
+        <zone ulx="726" uly="716" lrx="1326" lry="741" xml:id="pag44_r89" />
+        <zone ulx="723" uly="744" lrx="1336" lry="770" xml:id="pag44_r90" />
+        <zone ulx="726" uly="774" lrx="1338" lry="795" xml:id="pag44_r91" />
+        <zone ulx="726" uly="799" lrx="1332" lry="819" xml:id="pag44_r92" />
+        <zone ulx="729" uly="825" lrx="1332" lry="850" xml:id="pag44_r93" />
+        <zone ulx="722" uly="853" lrx="1332" lry="878" xml:id="pag44_r94" />
+        <zone ulx="725" uly="879" lrx="1334" lry="904" xml:id="pag44_r95" />
+        <zone ulx="724" uly="906" lrx="1340" lry="926" xml:id="pag44_r96" />
+        <zone ulx="726" uly="930" lrx="1335" lry="950" xml:id="pag44_r97" />
+        <zone ulx="728" uly="952" lrx="1335" lry="978" xml:id="pag44_r98" />
+        <zone ulx="727" uly="979" lrx="1337" lry="1006" xml:id="pag44_r99" />
+        <zone ulx="722" uly="1008" lrx="1334" lry="1028" xml:id="pag44_r100" />
+        <zone ulx="723" uly="1032" lrx="1332" lry="1053" xml:id="pag44_r101" />
+        <zone ulx="724" uly="1058" lrx="1340" lry="1084" xml:id="pag44_r102" />
+        <zone ulx="723" uly="1088" lrx="1332" lry="1110" xml:id="pag44_r103" />
+        <zone ulx="724" uly="1114" lrx="1336" lry="1134" xml:id="pag44_r104" />
+        <zone ulx="727" uly="1135" lrx="1332" lry="1163" xml:id="pag44_r105" />
+        <zone ulx="729" uly="1162" lrx="1337" lry="1186" xml:id="pag44_r106" />
+        <zone ulx="724" uly="1188" lrx="1335" lry="1213" xml:id="pag44_r107" />
+        <zone ulx="723" uly="1214" lrx="1336" lry="1241" xml:id="pag44_r108" />
+        <zone ulx="724" uly="1241" lrx="1343" lry="1265" xml:id="pag44_r109" />
+        <zone ulx="724" uly="1268" lrx="1334" lry="1293" xml:id="pag44_r110" />
+        <zone ulx="726" uly="1294" lrx="1337" lry="1320" xml:id="pag44_r111" />
+        <zone ulx="724" uly="1321" lrx="1339" lry="1346" xml:id="pag44_r112" />
+        <zone ulx="728" uly="1346" lrx="1337" lry="1374" xml:id="pag44_r113" />
+        <zone ulx="724" uly="1372" lrx="1339" lry="1399" xml:id="pag44_r114" />
+        <zone ulx="723" uly="1398" lrx="1335" lry="1425" xml:id="pag44_r115" />
+        <zone ulx="723" uly="1425" lrx="1340" lry="1449" xml:id="pag44_r116" />
+        <zone ulx="727" uly="1451" lrx="1332" lry="1476" xml:id="pag44_r117" />
+        <zone ulx="727" uly="1478" lrx="1339" lry="1504" xml:id="pag44_r118" />
+        <zone ulx="729" uly="1504" lrx="1337" lry="1529" xml:id="pag44_r119" />
+        <zone ulx="726" uly="1530" lrx="1336" lry="1554" xml:id="pag44_r120" />
+        <zone ulx="725" uly="1552" lrx="1337" lry="1581" xml:id="pag44_r121" />
+        <zone ulx="725" uly="1577" lrx="1333" lry="1602" xml:id="pag44_r122" />
+        <zone ulx="725" uly="1610" lrx="1341" lry="1634" xml:id="pag44_r123" />
+        <zone ulx="727" uly="1634" lrx="1180" lry="1658" xml:id="pag44_r124" />
+        <zone ulx="754" uly="1659" lrx="1340" lry="1683" xml:id="pag44_r125" />
+        <zone ulx="725" uly="1688" lrx="1335" lry="1710" xml:id="pag44_r126" />
+        <zone ulx="728" uly="1712" lrx="1342" lry="1737" xml:id="pag44_r127" />
+        <zone ulx="725" uly="1737" lrx="1340" lry="1762" xml:id="pag44_r128" />
+        <zone ulx="723" uly="1763" lrx="1336" lry="1791" xml:id="pag44_r129" />
+        <zone ulx="725" uly="1790" lrx="1340" lry="1811" xml:id="pag44_r130" />
+        <zone ulx="722" uly="1811" lrx="1332" lry="1842" xml:id="pag44_r131" />
+        <zone ulx="726" uly="1845" lrx="1340" lry="1864" xml:id="pag44_r132" />
+        <zone ulx="725" uly="1869" lrx="1336" lry="1890" xml:id="pag44_r133" />
+</surface>
+
+    <!-- Pagina 45-->
+    <surface n="5" xml:id="pag45">
+        <graphic url='Vol1-1878-1-S1-F3-pag45.png' width='1328px' height='2018px' />
+        <zone ulx="53" uly="118" lrx="656" lry="145" xml:id="pag45_r1" />
+        <zone ulx="52" uly="142" lrx="657" lry="171" xml:id="pag45_r2" />
+        <zone ulx="48" uly="169" lrx="664" lry="195" xml:id="pag45_r3" />
+        <zone ulx="53" uly="197" lrx="308" lry="227" xml:id="pag45_r4" />
+    </surface>
+
+    <!-- Pagina 46 BIBLIOGRAFIA: SCIENZE GIURIDICHE prima colonna-->
+    <surface n="6" xml:id="pag46">
+        <graphic url='Vol1-1878-1-S1-F3-pag46.png' width='1360px' height='2014px' />
+        <zone ulx="278" uly="765" lrx="500" lry="782" xml:id="pag46_titolo"/>
+        <zone ulx="67" uly="791" lrx="692" lry="818" xml:id="pag46_r1" />
+        <zone ulx="101" uly="819" lrx="267" lry="850" xml:id="pag46_r2" />
+        <zone ulx="99" uly="848" lrx="691" lry="880" xml:id="pag46_r3" />
+        <zone ulx="76" uly="879" lrx="692" lry="903" xml:id="pag46_r4" />
+        <zone ulx="72" uly="903" lrx="688" lry="930" xml:id="pag46_r5" />
+        <zone ulx="76" uly="930" lrx="688" lry="959" xml:id="pag46_r6" />
+        <zone ulx="74" uly="961" lrx="692" lry="984" xml:id="pag46_r7" />
+        <zone ulx="73" uly="982" lrx="685" lry="1012" xml:id="pag46_r8" />
+        <zone ulx="72" uly="1010" lrx="688" lry="1035" xml:id="pag46_r9" />
+        <zone ulx="72" uly="1036" lrx="693" lry="1056" xml:id="pag46_r10" />
+        <zone ulx="73" uly="1055" lrx="685" lry="1084" xml:id="pag46_r11" />
+        <zone ulx="75" uly="1086" lrx="692" lry="1114" xml:id="pag46_r12" />
+        <zone ulx="77" uly="1114" lrx="695" lry="1134" xml:id="pag46_r13" />
+        <zone ulx="79" uly="1138" lrx="689" lry="1164" xml:id="pag46_r14" />
+        <zone ulx="76" uly="1165" lrx="688" lry="1192" xml:id="pag46_r15" />
+        <zone ulx="74" uly="1191" lrx="688" lry="1215" xml:id="pag46_r16" />
+        <zone ulx="77" uly="1215" lrx="691" lry="1243" xml:id="pag46_r17" />
+        <zone ulx="79" uly="1243" lrx="688" lry="1269" xml:id="pag46_r18" />
+        <zone ulx="79" uly="1270" lrx="684" lry="1292" xml:id="pag46_r19" />
+        <zone ulx="79" uly="1296" lrx="689" lry="1320" xml:id="pag46_r20" />
+        <zone ulx="76" uly="1321" lrx="692" lry="1347" xml:id="pag46_r21" />
+        <zone ulx="75" uly="1349" lrx="691" lry="1373" xml:id="pag46_r22" />
+        <zone ulx="75" uly="1376" lrx="687" lry="1400" xml:id="pag46_r23" />
+        <zone ulx="78" uly="1401" lrx="692" lry="1429" xml:id="pag46_r24" />
+        <zone ulx="76" uly="1429" lrx="397" lry="1450" xml:id="pag46_r25" />
+        <zone ulx="94" uly="1451" lrx="692" lry="1476" xml:id="pag46_r26" />
+        <zone ulx="75" uly="1476" lrx="690" lry="1505" xml:id="pag46_r27" />
+        <zone ulx="74" uly="1508" lrx="693" lry="1532" xml:id="pag46_r28" />
+        <zone ulx="75" uly="1533" lrx="691" lry="1555" xml:id="pag46_r29" />
+        <zone ulx="80" uly="1562" lrx="693" lry="1583" xml:id="pag46_r30" />
+        <zone ulx="78" uly="1586" lrx="691" lry="1607" xml:id="pag46_r31" />
+        <zone ulx="81" uly="1610" lrx="692" lry="1635" xml:id="pag46_r32" />
+        <zone ulx="80" uly="1636" lrx="691" lry="1657" xml:id="pag46_r33" />
+        <zone ulx="82" uly="1664" lrx="690" lry="1687" xml:id="pag46_r34" />
+        <zone ulx="81" uly="1689" lrx="691" lry="1712" xml:id="pag46_r35" />
+        <zone ulx="79" uly="1717" lrx="689" lry="1738" xml:id="pag46_r36" />
+        <zone ulx="77" uly="1740" lrx="694" lry="1765" xml:id="pag46_r37" />
+        <zone ulx="78" uly="1768" lrx="693" lry="1790" xml:id="pag46_r38" />
+        <zone ulx="85" uly="1794" lrx="696" lry="1818" xml:id="pag46_r39" />
+        <zone ulx="78" uly="1822" lrx="697" lry="1841" xml:id="pag46_r40" />
+        <zone ulx="75" uly="1849" lrx="693" lry="1869" xml:id="pag46_r41" />
+        <zone ulx="77" uly="1872" lrx="691" lry="1900" xml:id="pag46_r42" />
+
+<!-- seconda colonna-->
+        <zone ulx="706" uly="149" lrx="1319" lry="170" xml:id="pag46_r43"/>
+        <zone ulx="707" uly="171" lrx="1324" lry="197" xml:id="pag46_r44"/>
+        <zone ulx="714" uly="196" lrx="1321" lry="225" xml:id="pag46_r45"/>
+        <zone ulx="706" uly="223" lrx="1323" lry="252" xml:id="pag46_r46"/>
+        <zone ulx="705" uly="255" lrx="1321" lry="273" xml:id="pag46_r47"/>
+        <zone ulx="708" uly="276" lrx="1318" lry="300" xml:id="pag46_r48"/>
+        <zone ulx="706" uly="304" lrx="1309" lry="329" xml:id="pag46_r49"/>
+        <zone ulx="711" uly="330" lrx="1321" lry="355" xml:id="pag46_r50"/>
+        <zone ulx="707" uly="357" lrx="1327" lry="385" xml:id="pag46_r51"/>
+        <zone ulx="707" uly="386" lrx="1316" lry="411" xml:id="pag46_r52"/>
+        <zone ulx="710" uly="405" lrx="1322" lry="433" xml:id="pag46_r53"/>
+        <zone ulx="709" uly="438" lrx="1325" lry="456" xml:id="pag46_r54"/>
+        <zone ulx="706" uly="462" lrx="1320" lry="487" xml:id="pag46_r55"/>
+        <zone ulx="706" uly="487" lrx="1314" lry="510" xml:id="pag46_r56"/>
+        <zone ulx="708" uly="509" lrx="1325" lry="540" xml:id="pag46_r57"/>
+        <zone ulx="704" uly="542" lrx="1323" lry="563" xml:id="pag46_r58"/>
+        <zone ulx="710" uly="569" lrx="1319" lry="589" xml:id="pag46_r59"/>
+        <zone ulx="710" uly="591" lrx="1320" lry="624" xml:id="pag46_r60"/>
+        <zone ulx="707" uly="617" lrx="1324" lry="646" xml:id="pag46_r61"/>
+        <zone ulx="706" uly="644" lrx="1321" lry="666" xml:id="pag46_r62"/>
+        <zone ulx="704" uly="669" lrx="1327" lry="695" xml:id="pag46_r63"/>
+        <zone ulx="709" uly="698" lrx="1324" lry="719" xml:id="pag46_r64"/>
+        <zone ulx="710" uly="723" lrx="1324" lry="745" xml:id="pag46_r65"/>
+        <zone ulx="707" uly="747" lrx="1327" lry="772" xml:id="pag46_r66"/>
+        <zone ulx="707" uly="772" lrx="1321" lry="801" xml:id="pag46_r67"/>
+        <zone ulx="710" uly="802" lrx="1324" lry="822" xml:id="pag46_r68"/>
+        <zone ulx="707" uly="827" lrx="1322" lry="855" xml:id="pag46_r69" />
+        <zone ulx="709" uly="852" lrx="1324" lry="884" xml:id="pag46_r70" />
+        <zone ulx="709" uly="886" lrx="1329" lry="910" xml:id="pag46_r71" />
+        <zone ulx="708" uly="905" lrx="1034" lry="933" xml:id="pag46_r72" />
+
+        <!-- SCIENZE ECONOMICHE-->
+        <zone ulx="274" uly="766" lrx="492" lry="786" xml:id="pag46_titolo2"/>
+        <zone ulx="711" uly="976" lrx="1330" lry="1004" xml:id="pag46_r73"/>
+        <zone ulx="733" uly="1009" lrx="961" lry="1028" xml:id="pag46_r74"/>
+        <zone ulx="738" uly="1033" lrx="1323" lry="1060" xml:id="pag46_r75"/>
+        <zone ulx="708" uly="1064" lrx="1319" lry="1090" xml:id="pag46_r76"/>
+        <zone ulx="707" uly="1084" lrx="1322" lry="1119" xml:id="pag46_r77"/>
+        <zone ulx="708" uly="1113" lrx="1325" lry="1142" xml:id="pag46_r78"/>
+        <zone ulx="708" uly="1145" lrx="1321" lry="1167" xml:id="pag46_r79"/>
+        <zone ulx="708" uly="1170" lrx="1325" lry="1191" xml:id="pag46_r80"/>
+        <zone ulx="709" uly="1195" lrx="1321" lry="1220" xml:id="pag46_r81"/>
+        <zone ulx="707" uly="1222" lrx="1322" lry="1245" xml:id="pag46_r82"/>
+        <zone ulx="709" uly="1247" lrx="1321" lry="1272" xml:id="pag46_r83"/>
+        <zone ulx="707" uly="1274" lrx="1318" lry="1296" xml:id="pag46_r84"/>
+        <zone ulx="708" uly="1297" lrx="1323" lry="1327" xml:id="pag46_r85"/>
+        <zone ulx="709" uly="1328" lrx="1325" lry="1351" xml:id="pag46_r86"/>
+        <zone ulx="711" uly="1350" lrx="1324" lry="1378" xml:id="pag46_r87"/>
+        <zone ulx="711" uly="1381" lrx="1325" lry="1403" xml:id="pag46_r88"/>
+        <zone ulx="710" uly="1403" lrx="1325" lry="1430" xml:id="pag46_r89"/>
+        <zone ulx="709" uly="1431" lrx="1323" lry="1455" xml:id="pag46_r90"/>
+        <zone ulx="707" uly="1456" lrx="1322" lry="1482" xml:id="pag46_r91"/>
+        <zone ulx="707" uly="1482" lrx="1323" lry="1509" xml:id="pag46_r92"/>
+        <zone ulx="711" uly="1508" lrx="1326" lry="1538" xml:id="pag46_r93"/>
+        <zone ulx="712" uly="1535" lrx="1327" lry="1558" xml:id="pag46_r94"/>
+        <zone ulx="709" uly="1557" lrx="791" lry="1588" xml:id="pag46_r95"/>
+    </surface>
+
+    <!-- Pagina 48: NOTIZIE prima colonna e prima notizia-->
+     <surface n="7" xml:id="pag47"> 
+        <graphic url='Vol1-1878-1-S1-F3-pag48.png' width='1394px' height='2012px' />
+        <zone ulx="147" uly="1360" lrx="742" lry="1389" xml:id="pag48_r1"/>
+        <zone ulx="116" uly="1385" lrx="742" lry="1410" xml:id="pag48_r2"/>
+        <zone ulx="111" uly="1413" lrx="254" lry="1433" xml:id="pag48_r3"/>
+        <zone ulx="145" uly="1436" lrx="743" lry="1461" xml:id="pag48_r4"/>
+        <zone ulx="128" uly="1460" lrx="738" lry="1483" xml:id="pag48_r5"/>
+        <zone ulx="132" uly="1480" lrx="741" lry="1508" xml:id="pag48_r6"/>
+        <zone ulx="119" uly="1500" lrx="738" lry="1534" xml:id="pag48_r7"/>
+        <zone ulx="115" uly="1528" lrx="738" lry="1555" xml:id="pag48_r8"/>
+        <zone ulx="113" uly="1558" lrx="744" lry="1581" xml:id="pag48_r9"/>
+        <zone ulx="116" uly="1578" lrx="662" lry="1602" xml:id="pag48_r10"/>
+        
+    <!-- seconda colonna e ulitma notizia-->
+        <zone ulx="780" uly="1392" lrx="1380" lry="1417" xml:id="pag48_r11"/>
+        <zone ulx="760" uly="1414" lrx="1384" lry="1436" xml:id="pag48_r12"/>
+        <zone ulx="763" uly="1440" lrx="1384" lry="1465" xml:id="pag48_r13"/>
+        <zone ulx="765" uly="1464" lrx="1386" lry="1488" xml:id="pag48_r14"/>
+        <zone ulx="759" uly="1489" lrx="1379" lry="1511" xml:id="pag48_r15"/>
+        <zone ulx="756" uly="1514" lrx="1383" lry="1532" xml:id="pag48_r16"/>
+        <zone ulx="758" uly="1533" lrx="1383" lry="1559" xml:id="pag48_r17"/>
+        <zone ulx="761" uly="1561" lrx="1383" lry="1583" xml:id="pag48_r18"/>
+        <zone ulx="761" uly="1582" lrx="1375" lry="1607" xml:id="pag48_r19"/>
+        <zone ulx="764" uly="1610" lrx="1381" lry="1632" xml:id="pag48_r20"/>
+        <zone ulx="767" uly="1633" lrx="1382" lry="1655" xml:id="pag48_r21"/>
+        <zone ulx="765" uly="1656" lrx="1377" lry="1682" xml:id="pag48_r22"/>
+        <zone ulx="757" uly="1682" lrx="1372" lry="1698" xml:id="pag48_r23"/>
+        <zone ulx="768" uly="1708" lrx="1382" lry="1727" xml:id="pag48_r24"/>
+    </surface>    
+</facsimile>
+
+<text xml:lang="it">
+    <body>
+        <div type="articolo" n="1" > <!--racchiude ogni articolo, perché hai codificato per articoli? scelta personale, ma può essere codificata anche per articoli-->
+            <pb facs="#pag34" xml:id="pag34_pb"/>
+            <cb n="1" xml:id="pag34_cb"/>
+            <head rend="align(center) case(allcaps)" xml:id="head1"> 
+                <lb n="1" facs="#pag34_titolo"/>
+                Il Monumento a <persName ref="#vittorioemanuele">Vittorio Emanuele</persName> 
+            </head>
+            <head rend="align(center) case(normal) size(small)" facs="#pag34_sottotitolo" xml:id="head2">
+                <lb n="2" facs="#pag34_sottotitolo"/>
+                e i corpi morali.
+            </head>
+
+            <ab type="pagina" n="1" xml:id="pag34_ab"> <!-- racchiude la codifica della singola pagina-->
+                <lb n="3" facs="#pag34_r1"/> 
+                Il gentile pensiero della sottoscrizione nazionale per un
+                <lb n="4" facs="#pag34_r2"/> 
+                monumento al <roleName ref="#vittorioemanuele">Re</roleName> che ci ha lasciati, trae la sua delica- <lb break="no"/>
+                <lb n="5" facs="#pag34_r3"/>
+                tezza dalla spontaneità, dal sentimento affettuoso, quasi
+                <lb n="6" facs="#pag34_r4"/> 
+                diremmo filiale di chiunque vi partecipa. Questa dimostra- <lb break="no"/>
+                <lb n="7" facs="#pag34_r5"/> 
+                zione, per non perdere buona parte del suo valore, e di
+                <lb n="8" facs="#pag34_r6"/> 
+                fronte a noi stessi e di fronte all’estero, dovrebbe mante- <lb break="no"/>
+                <lb n="9" facs="#pag34_r7"/> 
+                nere fin nei più piccoli particolari, il carattere di una so- <lb break="no"/>
+                <lb n="10" facs="#pag34_r8"/> 
+                lennità di famiglia; a ciascun cittadino dovrebb’esser la- <lb break="no"/>
+                <lb n="11" facs="#pag34_r9"/> 
+                sciato che vi partecipasse per conto proprio. Il giorno in
+                <lb n="12" facs="#pag34_r10"/> 
+                cui l’infausta notizia si sparse per il paese, fu cosa natu- <lb break="no"/>
+                <lb n="13" facs="#pag34_r11"/> 
+                rale e buona che le rappresentanze municipali, vicine alle
+                <lb n="14" facs="#pag34_r12"/> 
+                popolazioni, usassero dei loro mezzi, che mancano ai pri- <lb break="no"/>
+                <lb n="15" facs="#pag34_r13"/> 
+                vati, per manifestare prontamente alla rimanente <placeName ref="#it">Italia</placeName> il
+                <lb n="16" facs="#pag34_r14"/> 
+                dolore comune. Codesto è uno dei rari casi ne’ quali la
+                <lb n="17" facs="#pag34_r15"/> 
+                mancanza di ogni contrasto d’interesse e di <orgName ref="#partito">partiti</orgName> rende
+                <lb n="18" facs="#pag34_r16"/> 
+                possibile, e in conseguenza lecito, ai <orgName ref="#comuni"> Municipi </orgName> il farsi eco
+                <lb n="19" facs="#pag34_r17"/> 
+                dei sentimenti di tutti i cittadini sottoposti alla loro am- <lb break="no"/>
+                <lb n="20" facs="#pag34_r18"/> 
+                ministrazione. Ma qui si fermò l’ufficio loro. Questi orga- <lb break="no"/>
+
+                <cb n="2" xml:id="pag34_cb2"/> <!--mettilo a ogni inizio colonna-->
+                 <lb n="21" facs="#pag34_r19"/> 
+                 nismi intesi a far bilanci, esaminar conti, distribuire tasse,
+                 <lb n="22" facs="#pag34_r20"/> 
+                 far regolamenti di polizia sopra un dato territorio per conto
+                 <lb n="23" facs="#pag34_r21"/> 
+                 dei cittadini che l’abitano, se sono atti talvolta a farsi in- <lb break="no"/>
+                 <lb n="24" facs="#pag34_r22"/> 
+                 terpreti dei loro sentimenti, non lo sono a identificarsi con
+                 <lb n="25" facs="#pag34_r23"/> 
+                 essi, ed a far propri i sentimenti di tutti, al punto di tra- <lb break="no"/>
+                 <lb n="26" facs="#pag34_r24"/> 
+                 durli in atto con aggravio dei bilanci. Le deliberazioni con le
+                 <lb n="27" facs="#pag34_r25"/> 
+                 quali vari <orgName ref="#comuni">Municipi</orgName> al monumento nazio- <lb break="no"/>
+                 <lb n="28" facs="#pag34_r26"/> 
+                 nale, si traducono nel fatto in aggiunte alle cartelle con- <lb break="no"/>
+                 <lb n="29" facs="#pag34_r27"/> 
+                 segnate all’esattore, per i poveri come per i ricchi, con
+                 <lb n="30" facs="#pag34_r28"/> 
+                 l’intervento al bisogno dell’usciere e dei <orgName ref="#carabinieri"> carabinieri </orgName> e col
+                 <lb n="31" facs="#pag34_r29"/> 
+                 pignoramento e la vendita dei beni; e sono atte a mutare
+                 <lb n="32" facs="#pag34_r30"/> 
+                 in sentimenti ben diversi in molti delle classi infime della
+                 <lb n="33" facs="#pag34_r31"/> 
+                 popolazione, l’amore ed il rimpianto che adesso accompa- <lb break="no"/>
+                 <lb n="34" facs="#pag34_r32"/> 
+                 gnano al di là della tomba Colui che è partito.
+                 <lb n="35" facs="#pag34_r33"/> 
+                 Si dimentica troppo spesso da tutti, dagli stessi nostri
+                 <lb n="36" facs="#pag34_r34"/> 
+                 governanti, che le rappresentanze locali, e per la natura
+                 <lb n="37" facs="#pag34_r35"/> 
+                 delle cose e per le nostre leggi, hanno mandato definito
+                 <lb n="38" facs="#pag34_r36"/> 
+                 e limitato a certe date materie, e non sono rappresentanti
+                 <lb n="39" facs="#pag34_r37"/> 
+                 ed interpreti naturali in tutto e per tutto delle popolazioni
+                 <lb n="40" facs="#pag34_r38"/> 
+                 che occupano i territori sottoposti alla loro amministra- <lb break="no"/>
+                 <lb n="41" facs="#pag34_r39"/> 
+                 zione. Le prime ad ingannarsi in siffatto argomento sono
+                 <lb n="42" facs="#pag34_r40"/> 
+                 naturalmente le <orgName ref="#comuni">rappresentanze Comunali</orgName> stesse. E con- <lb break="no"/>
+                 <lb n="43" facs="#pag34_r41"/> 
+                 veniamo che molte tra esse, partecipi dell’illusione comune,
+                 <lb n="44" facs="#pag34_r42"/> 
+                 nel votare le deliberazioni di cui parliamo, non credettero
+                 <lb n="45" facs="#pag34_r43"/> 
+                 fare altro che dare sfogo ai sentimenti che empivano il
+                 <lb n="46" facs="#pag34_r44"/> 
+                 loro cuore.
+                 <lb n="47" facs="#pag34_r45"/> 
+                 È necessario uno sforzo doloroso per sottrarsi al- <lb break="no"/>
+                 <lb n="48" facs="#pag34_r46"/> 
+                 l'ambiente dell’emozione generale, ed analizzare minuta- <lb break="no"/>
+                 <lb n="49" facs="#pag34_r47"/> 
+                 mente una di quelle universali manifestazioni di cui come
+                 <lb n="50" facs="#pag34_r48"/> 
+                 italiani ci compiacciamo tanto, per ricercarne i lati men
+                 <lb n="51" facs="#pag34_r49"/> 
+                 belli. Ma le emozioni passano; rimane il malcontento risul- <lb break="no"/>
+                 <lb n="52" facs="#pag34_r50"/> 
+                 tante da una misura improvvida, rimane il danno morale
+                 <lb n="53" facs="#pag34_r51"/> 
+                 della nazione, rimane il precedente di una violazione della
+                 <lb n="54" facs="#pag34_r52"/> 
+                 legge. Imperocchè molte fra le deliberazioni di cui si tratta
+                 <lb n="55" facs="#pag34_r53"/> 
+                 sono infrazioni alla legge del <date> 14 giugno 1874 </date> con la quale
+                 <lb n="56" facs="#pag34_r54"/> 
+                 viene negata la licenza di fare spese facoltative a quei
+                 <lb n="57" facs="#pag34_r55"/> 
+                 <orgName ref="#comuni">Comuni</orgName> i quali avessero ecceduto il limite normale della
+                 <lb n="58" facs="#pag34_r56"/> 
+                 sovrimposta, e vietata addirittura ogni spesa che non sia
+                 <lb n="59" facs="#pag34_r57"/> 
+                 d’interesse esclusivamente locale.
+                 <lb n="60" facs="#pag34_r58"/> 
+                 Non dubitiamo che il <orgName ref="#ministerointerno">Ministero dell'Interno</orgName>, nell’inte- <lb break="no"/>
+                 <lb n="61" facs="#pag34_r59"/> 
+                 resse della monarchia e del paese, userà i mezzi che ha
+                 <lb n="62" facs="#pag34_r60"/> 
+                 dalla legge per impedire che siano poste in atto quelle fra
+                 <lb n="63" facs="#pag34_r61"/> 
+                 tali deliberazioni, che sono illegali.
+                 <lb n="64" facs="#pag34_r62"/> 
+                 E gioverà forse qui ricordare un’ altra occasione in cui
+                 <lb n="65" facs="#pag34_r63"/> 
+                 l’ <placeName ref="#it">Italia</placeName> commossa alla notizia che <persName ref="#garibaldi"> Garibaldi</persName> era per accet- <lb break="no"/>
+                 <lb n="66" facs="#pag34_r64"/> 
+                 tare dall’ estero soccorsi per provvedere ai bisogni della
+                 <lb n="67" facs="#pag34_r65"/> 
+                 sua famiglia, dette una spontanea manifestazione di ri- <lb break="no"/>
+                 <lb n="68" facs="#pag34_r66"/> 
+                 conoscenza nazionale, col votare che fecero molte <orgName ref="#provincia"> Pro- <lb break="no"/>
+                 <lb n="69" facs="#pag34_r67"/> 
+                 vincie </orgName> e <orgName ref="#comuni">Comuni</orgName> somme ragguardevoli a favore del <roleName ref="#garibaldi"> Gene- <lb break="no"/>
+                 <lb n="70" facs="#pag34_r68"/> 
+                 rale</roleName>. — Allora il <orgName ref="#governo">Governo</orgName> annullò quelle deliberazioni, e
+                 <lb n="71" facs="#pag34_r69"/> 
+                 fece bene.
+                 <lb n="72" facs="#pag34_r70"/> 
+                 Non sapremmo poi lasciare l’argomento senza espri- <lb break="no"/>
+                 <lb n="73" facs="#pag34_r71"/> 
+                 mere la nostra alta maraviglia che <orgName ref="#consigliodir">Consiglio di direzione</orgName> 
+                 <lb n="74" facs="#pag34_r72"/> 
+                 di <orgName ref="#banca">Banche</orgName> e di <orgName ref="#casserisparmio">Casse di risparmio</orgName> si siano fatti lecito in
+                 <lb n="75" facs="#pag34_r73"/> 
+                 quest’ occasione disporre di somme appartenenti agl’isti- <lb break="no"/>
+                 <lb n="76" facs="#pag34_r74"/> 
+                 tuti economici, che dovrebbero amministrare, a scopi total- <lb break="no"/>
+                 <lb n="77" facs="#pag34_r75"/> 
+                 mente estranei al loro ufficio. Per questi signori non sa- <lb break="no"/>
+                 <lb n="78" facs="#pag34_r76"/> 
+                 premmo davvero escogitare scusa di sorta. Per quanto
+                 <lb n="79" facs="#pag34_r77"/> 
+                 nobile e grande possa essere uno scopo, a nessuno è lecito
+                 <lb n="80" facs="#pag34_r78"/> 
+                 disporre di quello d’altri per conseguirlo; e qui si tratta di
+                 <lb n="81" facs="#pag34_r79"/> 
+                 denari degli azionisti, e peggio ancora dei poveri. Non si
+                 <lb n="82" facs="#pag34_r80"/> 
+                 onorano i grandi col mancare al proprio ufficio, e col dare
+                 <lb n="83" facs="#pag34_r81"/> 
+                 al paese esempio di trascuranza ai propri doveri.
+                 <lb n="84" facs="#pag34_r82"/> 
+                 Tocca soltanto ai privati cittadini l’ordinare la dimo- <lb break="no"/>
+                 <lb n="85" facs="#pag34_r83"/> 
+                 strazione nazionale, affinchè niuno possa venir poi ad ac- <lb break="no"/>
+                 <lb n="86" facs="#pag34_r84"/> 
+                 cusarla di essere stata ufficiale. Si formino dappertutto <orgName ref="#comitato"> Co- <lb break="no"/>
+                 <lb n="87" facs="#pag34_r85"/> 
+                 mitati </orgName>, e questi dispongano la sottoscrizione in modo che 
+            </ab>
+         
+
+        <!-- pagina 35-->   
+        
+            <pb n="2" facs="#pag35" xml:id="pag35_pb"/>
+            <cb n="3" xml:id="pag35_cb"/>
+            <ab type="pagina" n="2" xml:id="pag35_ab">
+                <lb n="88" facs="#pag35_r1"/> non vi sia così remoto paese d’ <placeName ref="#it">Italia</placeName> o così povera borsa che
+                <lb n="89" facs="#pag36_r2"/> non possano contribuire al monumento della nostra ricono- <lb break="no"/>
+                <lb n="70" facs="#pag37_r3"/> scenza e del nostro amore per Colui che tanto fece per noi.
+            </ab>
+        </div>
+
+<!-- pagina 43 LETTERATURA DRAMMATICA-->
+        <div type="articolo" n="2">
+            <pb facs="#pag43" xml:id="pag43_pb"/> 
+            <cb n="4" xml:id="pag43_cb"/> 
+            <head rend="align(center) case(allcaps)" facs="#pag43" xml:id="bo2">
+            <lb n="1" facs="#pag43_titolo"/> Letteratura Drammatica.
+            </head>
+
+    <ab type="pagina" n="3" xml:id="pag43_ab">
+        <lb n="8" facs="#pag43_r6"/> 
+        fecero capolino sulla scena ma non ci si fermarono. Oggi
+        <lb n="9" facs="#pag43_r7"/> 
+        invece siamo a disputare del perchè il teatro drammatico
+        <lb n="10" facs="#pag43_r8"/> 
+        non prosperi qui come altrove, e delle cagioni che impedi- <lb break="no"/>
+        <lb n="11" facs="#pag43_r9"/> 
+        scono il suo rinascimento; e coloro stessi che più s’infiam- <lb break="no"/>
+        <lb n="12" facs="#pag43_r10"/>
+        mavano allora nel predicare alle genti il miracolo, oggi se
+        <lb n="13" facs="#pag43_r11"/> 
+        ne scusano dicendo che la loro fu un’ illusione generosa
+        <lb n="14" facs="#pag43_r12"/> 
+        così com’è amaro il disinganno, e buttano la colpa addosso
+        <lb n="15" facs="#pag43_r13"/> 
+        agli scrittori, i quali promisero molto e mantennero poco.
+        <lb n="16" facs="#pag43_r14"/> 
+        Le cose stanno propriamente a questo modo? A noi non
+        <lb n="17" facs="#pag43_r15"/> 
+        pare: e crediamo che il disinganno non sia toccato se non
+
+        <!-- seconda colonna-->
+        <cb n="4" xml:id="pag43_cb2"/>
+        <lb n="1" facs="#pag43_r1"/> 
+        a chi volle già illudersi per forza: per forza cercando e
+        <lb n="2" facs="#pag43_r2" />
+        vantando nei più dei lavori e degli <!-- questo non è un tema?--> scrittori drammatici ita- <lb break="no"/>
+        <lb n="3" facs="#pag43_r3"/> 
+        liani pregi e facoltà che non avevano.
+        <lb n="4" facs="#pag43_r4"/> 
+        A buon conto chi parla di risorgimento del teatro dram- <lb break="no"/>
+        <lb n="5" facs="#pag43_r5"/> 
+        matico italiano afferma implicitamente che l’ <placeName ref="#it">Italia</placeName> ebbe per
+        <lb n="6" facs="#pag43_r6"/> 
+        lo passato un teatro: affermazione che una critica impar- <lb break="no"/>
+        <lb n="7" facs="#pag43_r7"/> 
+        ziale ed accorta metterebbe forse in quarantena: non di- <lb break="no"/>
+        <lb n="8" facs="#pag43_r8"/> 
+        ciamo della tragedia: rispetto ad essa noi fummo e siamo
+        <lb n="9" facs="#pag43_r9"/> 
+        di gran lunga inferiori agl’inglesi, a’ Tedeschi, a’ Francesi:
+        <lb n="10" facs="#pag43_r10"/> 
+        ma e dove sono gli scrittori comici tali e tanti da farci le- <lb break="no"/>
+        <lb n="11" facs="#pag43_r11"/> 
+        cito di credere che anche noi avemmo un teatro? Nel <date> cin- <lb break="no"/> 
+        <lb n="12" facs="#pag43_r12"/> 
+        quecento </date>, tranne la <bibl rend="italic">Mandragola</bibl>, nulla di originale: il<date>sei-<lb break="no"/>
+        <lb n="13" facs="#pag43_r13"/> 
+        cento </date> si sta aspettando chi lo esplori : e se dal poco che
+        <lb n="14" facs="#pag43_r14"/> 
+        se ne conosce è facile arguire che un accenno alla comme- <lb break="no"/>
+        <lb n="15" facs="#pag43_r15"/> 
+        dia nazionale anche in mezzo alla imitazione spagnuola vi
+        <lb n="16" facs="#pag43_r16"/> 
+        fu, opere degne di restar sulla scena non è a sperare, per
+        <lb n="17" facs="#pag43_r17"/> 
+        quante esumazioni si facciano, di rinvenirne. Il<persName ref="#gold">Goldoni</persName> 
+        <lb n="18" facs="#pag43_r18"/> 
+        dunque e poi daccapo il <persName ref="#gold">Goldoni</persName>, e sempre il <persName ref="#gold">Goldoni</persName>:
+        <lb n="19" facs="#pag43_r19"/> 
+        grandissimo ma solo: avanti di lui, nulla o quasi nulla:
+        <lb n="20" facs="#pag43_r20"/> 
+        dopo di lui, cioè per cento anni e fino alla metà del secolo
+        <lb n="21" facs="#pag43_r21"/>
+        presente, un paio di commedie del <persName ref="#giraud">Giraud</persName> e basta: chè
+        <lb n="22" facs="#pag43_r22"/> 
+        delle rabberciature del<persName ref="#nota">Nota</persName>, delle freddure del<persName ref="#rossi">De Rossi</persName>,
+        <lb n="23" facs="#pag43_r23"/> 
+        delle sconcezze del<persName ref="#finoli">Finoli</persName>, delle insulsaggini del <persName ref="#broff">Brofferio</persName>,
+        <lb n="24" facs="#pag43_r24"/> 
+        delle puerilità del <persName ref="#cosenza">Cosenza</persName> non si ha a tener conto. Dov’è
+        <lb n="25" facs="#pag43_r25"/> 
+        qui quella lunga e non interrotta sequela di scrittori che
+        <lb n="26" facs="#pag43_r26"/> 
+        ha dato un teatro alla <placeName ref="#fr">Francia</placeName>, e che cominciando col<persName ref="#moliere"> Mo- <lb break="no"/>
+        <lb n="27" facs="#pag43_r27"/> 
+        lière </persName> e continuando col<persName ref="#regnard"> Regnard </persName>, col <persName ref="#dancourt">Dancourt</persName>, col<persName ref="#destr"> Destou- <lb break="no"/>
+        <lb n="28" facs="#pag43_r28"/> 
+        ches </persName> e giù giù col<persName ref="#colin">Colin d’Harleville</persName> e col<persName ref="#eglan"> D’ Eglantine </persName> ar- <lb break="no"/>
+        <lb n="29" facs="#pag43_r29"/> 
+        riva sino al<persName ref="#delavignr">Delavigne</persName> e al<persName ref="#bayard">Bayard</persName> per finire poi sotto ai
+        <lb n="30" facs="#pag43_r30"/> 
+        nostri occhi col<persName ref="#dumas">Dumas</persName>, coll’ <persName ref="#augier">Augier</persName> e cogli altri minori?
+        <lb n="31" facs="#pag43_r31"/> 
+        Ma lasciamo il passato: è egli propriamente vero, que- <lb break="no"/>
+        <lb n="32" facs="#pag43_r32"/> 
+        sto importa sapere, che gli autori comici contemporanei
+        <lb n="33" facs="#pag43_r33"/> 
+        abbiano dato tante belle speranze di sè, e le abbiano poi
+        <lb n="34" facs="#pag43_r34"/> 
+        tutte deluse? Vediamo.
+        <lb n="35" facs="#pag43_r35"/> 
+        Chi non loderà gli sforzi di <persName ref="#giacometti">Paolo Giacometti</persName> che, quando
+        <lb n="36" facs="#pag43_r36"/> 
+        da più anni il teatro viveva da noi di traduzioni, primo si
+        <lb n="37" facs="#pag43_r37"/> 
+        mette a scrivere per le nostre scene, segue le compagnie di
+        <lb n="38" facs="#pag43_r38"/> 
+        città in città men pagato e men stimato di un suggeritore,
+        <lb n="39" facs="#pag43_r39"/> 
+        e a furia di persistente coraggio sfida e l’indifferenza del
+        <lb n="40" facs="#pag43_r40"/> 
+        pubblico e la malavoglia dei capocomici? Ma data lode alla
+        <lb n="41" facs="#pag43_r41" /> 
+        costanza, all’ingegno fervidissimo, alle singolarissime atti- <lb break="no"/>
+        <lb n="42" facs="#pag43_r42"/> 
+        tudini sue, nessuno vorrà affermare che il<bibl rend="italic"> Poema e la Cambiale</bibl>,
+        <lb n="43" facs="#pag43_r43"/> 
+        il<bibl rend="italic">  Poeta e la Ballerina </bibl>, la <bibl rend="italic"> Colpa vendica la colpa </bibl> sieno
+        <lb n="44" facs="#pag43_r44"/> 
+        buone commedie; nè, malgrado dell’accoglienza fattale a
+        <lb n="45" facs="#pag43_r45"/> 
+        <placeName ref="paris">Parigi</placeName> ora è poco, si potrà encomiare senza molto riserbo
+        <lb n="46" facs="#pag43_r46"/> la 
+        <bibl rend="italic">Morte civile</bibl>. Sappiamo che questi e altri lavori del poeta
+        <lb n="47" facs="#pag43_r47"/> 
+        genovese stettero lungamente sulla scena ed ebbero applausi
+        <lb n="48" facs="#pag43_r48"/> 
+        in quantità: ma perchè un’opera dell’arte sia veramente
+        <lb n="49" facs="#pag43_r49"/> 
+        da giudicarsi buona, ha da ottenere insieme i suffragi del
+        <lb n="50" facs="#pag43_r50"/> 
+        volgo e quelli della gente che se ne intende. Quale fu tale
+        <lb n="51" facs="#pag43_r51"/> 
+        il<persName ref="#giacometti">Giacometti</persName> si serba: la <bibl rend="italic">Povertà in guanti gialli </bibl>, recente
+        <lb n="52" facs="#pag43_r52"/> 
+        lavoro suo così male accolto dal pubblico, è della stessa
+        <lb n="53" facs="#pag43_r53"/> 
+        stampa degli altri, nè vai meno di quelli. C’è lo stesso in- <lb break="no"/>
+        <lb n="54" facs="#pag43_r54"/> 
+        gegno, la stessa conoscenza degli effetti scenici : vi manca
+        <lb n="55" facs="#pag44ì3_r55"/> 
+        la verità dell’ osservazione, la umanità del tipo, la scioltezza
+        <lb n="56" facs="#pag43_r56"/> 
+        del dialogo, che ne’lavori del <persName ref="#giacometti">Giacometti</persName> non si trovano mai.
+        <lb n="57" facs="#pag43_r57"/> 
+        E quello che del<persName ref="#giacometti">Giacometti</persName> si può dire del <persName ref="#costetti">Costetti</persName>:
+        <lb n="58" facs="#pag43_r58"/> 
+        che è un<persName ref="#giacometti">Giacometti</persName> rimpiccolito e rimodernato, più al
+        <lb n="59" facs="#pag43_r59"/> 
+        giorno de’ gusti del pubblico e più assiduo lettore di cattivi
+        <lb n="60" facs="#pag43_r60"/> 
+        romanzi francesi.<bibl rend="italic"> Plebe dorata</bibl> è una delusione? No. È una
+        <lb n="61" facs="#pag43_r61"/> 
+        conseguenza. Scende in diretta linea dalla<bibl rend="italic">Lesina</bibl>, dalle
+        <lb n="62" facs="#pag43_r62"/> 
+        <bibl rend="italic">Mummie</bibl>, dagl’<bibl rend="italic">Intolleranti</bibl>, dal<bibl rend="italic">Figlio di famiglia</bibl>, dagli stessi
+        <lb n="63" facs="#pag43_r63"/>
+        <bibl rend="italic">Dissoluti gelosi</bibl>, che ebbero applausi e premi: esequie ono- <lb break="no"/>
+        <lb n="64" facs="#pag43_r64"/> 
+        rate. Nelle ultime come nelle prime commedie del<persName ref="#costetti">Costetti</persName>,
+        <lb n="65" facs="#pag43_r65"/> 
+        gli stessi personaggi <!-- moventesi è arcaico, che si muovono-->moventisi per non si sa quali molle
+        <lb n="66" facs="#pag43_r66"/> 
+        nascoste attraverso intrecci ardui in una società non vista
+        <lb n="67" facs="#pag43_r67"/> 
+        da alcuno, parlante un linguaggio artificioso che è quello
+    </ab>
+
+    <!-- PAGINA 44-->
+    <pb facs="#pag44" xml:id="pag44_pb"/> 
+    <cb n="5" xml:id="pag44_cb"/>
+     <ab> 
+        <lb n="68" facs="#pag44_r1"/> 
+        dell’ autore incapace di obiettivare. Non v’ è oggi, rispetto
+        <lb n="69" facs="#pag44_r2"/> 
+        al<persName ref="#costetti">Costetti</persName>, argomento di sconforto, come non vi fu altra
+        <lb n="70" facs="#pag44_r3"/> 
+        volta argomento di speranza.
+        <lb n="71" facs="#pag44_r4"/> 
+        La colpa non è degli autori, i quali anzi hanno ragione
+        <lb n="72" facs="#pag44_r5"/> 
+        di meravigliarsi nel vedere sbertato ora quel che tempo fa
+        <lb n="73" facs="#pag44_r6"/> 
+        si accoglieva con caloroso entusiasmo. Se fossimo nel<persName ref="#marenco">Ma- <lb break="no"/>
+        <lb n="74" facs="#pag44_r7"/> 
+        renco</persName>, per esempio, noi chiederemmo, e a buon dritto, alla
+        <lb n="75" facs="#pag44_r8"/> 
+        critica e al pubblico: perchè tanti battimani al<bibl rend="italic">Falconiere</bibl>,
+        <lb n="76" facs="#pag44_r9"/> 
+        tanto cipiglio all’<bibl rend="italic">Arimanna</bibl> e al <bibl rend="italic">Corrado</bibl>? O non sono della
+        <lb n="77" facs="#pag44_r10"/> 
+        stessa famiglia? Qua e là i medesimi uomini di bronzo, le
+        <lb n="78" facs="#pag44_r11"/> 
+        medesime donne di cartapesta, il medesimo convenziona-  <lb break="no"/>
+        <lb n="79" facs="#pag44_r12"/> 
+        lismo nel colore del tempo; qua e là ricerca di effetti che
+        <lb n="80" facs="#pag44_r13"/> 
+        non nascono dalle intime necessità del dramma ma da epi- <lb break="no"/>
+        <lb n="81" facs="#pag44_r14"/> 
+        sodii male appiccicati, da situazioni condotte penosamente
+        <lb n="82" facs="#pag44_r15"/> 
+        a respirare un po’ d’aria dopo che stettero chiuse per cin-  <lb break="no"/>
+        <lb n="83" facs="#pag44_r16"/> 
+        quant’anni nell’arsenale dei vecchi drammi, i quali inna-  <lb break="no"/>
+        <lb n="84" facs="#pag44_r17"/> 
+        moravano il <persName ref="#marchionni">Marchionni</persName> e facevano lacrimare il <persName ref="#ghirlanda"> Ghirlanda</persName>.
+        <lb n="85" facs="#pag44_r18"/> 
+        E qua e là la forma istessa; la forma che oramai s'è preso
+        <lb n="85" facs="#pag44_r18"/> 
+        l’uso di lodare nel <persName ref="#marenco">Marenco</persName>; perchè da noi quando un la-  <lb break="no"/>
+        <lb n="86" facs="#pag44_r19"/> 
+        voro drammatico è poco buono, si manda in pace l’autore
+        <lb n="87" facs="#pag44_r20"/> 
+        accertandogli che è un bel lavoro letterario. E bisogne-  <lb break="no"/>
+        <lb n="88" facs="#pag44_r21"/> 
+        rebbe dire invece, (e alcuni dei critici più ascoltati lo di-  <lb break="no"/>
+        <lb n="89" facs="#pag44_r22"/> 
+        cono, dappertutto fuorchè ne’ loro giornali) che essa pecca
+        <lb n="90" facs="#pag44_r23"/> 
+        per lusso d’immagini, spesso nè proprie nè nuove, e per
+        <lb n="91" facs="#pag44_r24"/>
+        difetto d’impasto: perchè gli emistichi delle vecchie tra-  <lb break="no"/>
+        <lb n="92" facs="#pag44_r25"/> 
+        gedie vi si accoppiano co’ riboboli, e, mancando quella sa-  <lb break="no"/>
+        <lb n="93" facs="#pag44_r26"/> 
+        piente fusione onde vien l’accozzo dell’antico e del vol-  <lb break="no"/>
+        <lb n="94" facs="#pag44_r27"/> 
+        gare, stride come striderebbe una strofa del <persName ref="#prati">Prati</persName> posta
+        <lb n="95" facs="#pag44_r28"/> 
+        là a casaccio in una laude di <persName ref="#belcari">Feo Belcari</persName>. E ad ogni
+        <lb n="96" facs="#pag44_r29"/> 
+        modo fosse pure eccellente la forma, il teatro di questo
+        <lb n="97" facs="#pag44_r30"/> 
+        solo non si contenta: oggi come oggi siamo arrivati a
+        <lb n="98" facs="#pag44_r31"/> 
+        tale una confusione di parole e d’idee, che un volume
+        <lb n="99" facs="#pag44_r32"/> 
+        di liriche barbaramente scritte, mancanti di ogni pregio
+        <lb n="100" facs="#pag44_r33"/> 
+        d’arte e d’ogni senso di poesia, si loda <emph rend="italic">perchè c'è dramma</emph>
+        <lb n="101" facs="#pag44_r34"/> 
+        di un dramma informe senza nè capo nè coda, dove dieci
+        <lb n="101" facs="#pag44_r35"/> 
+        o dodici marionette si agitano vanamente per cinque atti
+        <lb n="102" facs="#pag44_r36"/> 
+        di seguito, si dice bene<emph rend="italic">perchè c’è della bella lirica!</emph> E così
+        <lb n="103" facs="#pag44_r37"/> 
+        si tira avanti salvando capra e cavoli, ossia si resta amici
+        <lb n="104" facs="#pag44_r38"/> 
+        degli autori e si passa per gente superiore al volgo dei
+        <lb n="105" facs="#pag44_r39"/> 
+        droghieri, che ignorando i sapienti trovati modernissimi,
+        <lb n="106" facs="#pag44_r40"/> 
+        cerca, come i nonni, la lirica nella lirica e il dramma
+        <lb n="107" facs="#pag44_r41"/> 
+        nel dramma. Al teatro far degli uomini vuol essere, non
+        <lb n="108" facs="#pag44_r42"/> 
+        de’ versi! E gli uomini non li fa oggi che uno solo sulla
+        <lb n="109" facs="#pag44_r43"/> 
+        scena italiana; il <persName ref="#ferrari">Ferrai</persName>. Dite pure che nelle sue favole
+        <lb n="110" facs="#pag44_r44"/> 
+        faticose appare piuttosto il lungo studio e difficile che la
+        <lb n="111" facs="#pag44_r45"/> 
+        ricca spontaneità della immaginazione; dite pure che il
+        <lb n="112" facs="#pag44_r46"/> 
+        linguaggio di alcuni suoi personaggi è talora rettorico e
+        <lb n="113" facs="#pag44_r47"/> 
+        gonfio; dite pure che talora per soverchia smania di colo- <lb break="no"/>
+        <lb n="114" facs="#pag44_r48"/> 
+        rire, sforza, se è lecita la frase, le tinte nella pittura di
+        <lb n="115" facs="#pag44_r49"/> 
+        certi ambienti sociali: tutte osservazioni vere: ma il pub- <lb break="no"/>
+        <lb n="116" facs="#pag44_r50"/> 
+        blico perdona facilmente tali mende a un poeta comico del
+        <lb n="117" facs="#pag44_r51"/> 
+        quale anche i lavori infelici, come il<bibl rend="italic">Roberto Viglius</bibl> e gli
+        <lb n="118" facs="#pag44_r52"/> 
+        <bibl rend="italic">Uomini seri</bibl>, portano l’impronta di quella che deve essere
+        <lb n="119" facs="#pag44_r53"/> 
+        la più spiccata, com’è la necessaria, facoltà di chi scrive
+        <lb n="120" facs="#pag44_r54"/> 
+        drammi e commedie: la facoltà di fare un carattere, di dar
+        <lb n="121" facs="#pag44_r55"/> 
+        vita e vigore e movimento a una figura umana.
+        <lb n="122" facs="#pag44_r56"/> 
+        Pigliate la più gran parte delle commedie recitate qui
+        <lb n="123" facs="#pag44_r57"/> 
+        da venti anni a questa parte: di quelle, intendiamoci, che
+        <lb n="124" facs="#pag44_r58"/> 
+        ebbero e applausi di platee, e onore di repliche, e lodi di
+        <lb n="125" facs="#pag44_r59"/> 
+        <orgName ref="#commissione">Commissioni</orgName> e premi di <orgName ref="#ministero"> Ministeri</orgName>. Chi se ne ricorda più?
+        <lb n="126" facs="#pag44_r60"/> 
+        Ma chi ha dimenticato il <persName type="fictional" rend="italic" ref="#marchesecolombi">Marchese Colombi</persName> del <name type="bilb" rend="italic" ref="#parini">Parini</name>, il
+        <lb n="127" facs="#pag44_r61"/> 
+        vecchio <persName type="fictional" rend="italic" ref="#blana">Blana</persName> della <bibl rend="italic">Prosa</bibl>, il <persName type="fictional" rend="italic" ref="#podesta">Podestà</persName> del <bibl rend="italic">Fante a Verona</bibl>,
+        <lb n="128" facs="#pag44_r62"/> 
+        l’<persName type="fictional" rend="italic" ref="#antonio">Antonio</persName> della <bibl rend="italic">Donna e lo scettico</bibl>, la <persName type="fictional" rend="italic" ref="#zia">Zia</persName> di<bibl rend="italic"> Dolcezza e ri- <lb break="no"/>
+        <lb n="129" facs="#pag44_r63"/> 
+        gore</bibl>, il<persName type="fictional" rend="italic" ref="Sirchi">Sirchi</persName> del<bibl rend="italic">Duello</bibl>, e via via, tralasciando di citarne
+        <lb n="130" facs="#pag44_r64"/> 
+        molti altri; meno quelli i quali bisogna citare di sicuro: i
+        <lb n="131" facs="#pag44_r65"/> 
+        personaggi tutti quanti della<bibl rend="italic"> Medicina di una ragazza am- <lb break="no"/>
+        <lb n="132" facs="#pag44_r66"/> 
+        malata</bibl>.
+
+        <!-- seconda colonna-->
+        <cb n="6" xml:id="pag44_cb2"/>
+         <lb n="133" facs="#pag44_r67"/> 
+         Eppure vi fu tempo nel quale del<persName ref="#ferrari">Ferrari</persName> si acclamò
+         <lb n="134" facs="#pag44_r68"/> 
+         emulo il<persName ref="#torelli">Torelli</persName>; da’ più discreti badiamo: che per altri il
+         <lb n="135" facs="#pag44_r69"/> 
+         <persName ref="#ferrari">Ferrari</persName> a paragone dell’autore de’<bibl>Mariti</bibl> doveva darsi per
+         <lb n="136" facs="#pag44_r70"/> 
+         vinto e implorare dal pubblico un benigno compatimento
+         <lb n="137" facs="#pag44_r71"/> 
+         perchè a lui, già verso la cinquantina, l’ingegno indebolito
+         <lb n="138" facs="#pag44_r72"/>
+        non consentisse di fare quanto il nuovo giovane poeta na- <lb break="no"/>
+         <lb n="139" facs="#pag44_r73"/> 
+         poletano faceva. Ed oggi che il<persName ref="#torelli">Torelli</persName> dopo molti infausti
+         <lb n="140" facs="#pag44_r74"/> 
+         successi, s’è ritirato per un po’ dalla scena, e si ramma- <lb break="no"/>
+         <lb n="141" facs="#pag44_r75"/> 
+         rica forse della pericolosa vanità di quelle prime lodi smi- <lb break="no"/>
+         <lb n="142" facs="#pag44_r76"/> 
+         surate, ond’egli non altro trasse che fiducia soverchia in sè
+         <lb n="143" facs="#pag44_r77"/> 
+         ed ebbe la spinta al lavoro spensieratamente affrettato, oggi
+         <lb n="144" facs="#pag44_r78"/> 
+         i fanatici d’allora piangono
+         <lb n="145" facs="#pag44_r79"/> 
+         <emph rend="align(center); font-variant: small-caps"> . . . . . . recise
+         <lb n="146" facs="#pag44_r80"/> 
+         Tante speranze dell’età fiorita </emph>
+         <lb n="147" facs="#pag44_r81"/> 
+         e accusano al solito il<persName ref="#torelli">Torelli</persName> di non aver mantenuto nel
+         <lb n="148" facs="#pag44_r82"/> 
+         <bibl rend="italic">Consalvo</bibl>, nella<bibl rend="italic">Fanciulla</bibl>, nel<bibl rend="italic">Colore del tempo</bibl>, ciò che pro- <lb break="no"/>
+         <lb n="149" facs="#pag44_r83"/> 
+         mise nella<bibl rend="italic">Missione della donna</bibl>, ne’<bibl rend="italic">Mariti</bibl>, nella<bibl rend="italic">Fragilità</bibl>.
+         <lb n="150" facs="#pag44_r84"/> 
+         Ma che promise egli mai il<persName ref="#torelli">Torelli</persName>? Se invece d’incoc- <lb break="no"/>
+         <lb n="151" facs="#pag44_r85"/> 
+         ciarsi a trovare ora in questo ora in quello il restauratore
+         <lb n="152" facs="#pag44_r86"/> 
+         del teatro nazionale, i critici avessero preso a esaminare
+         <lb n="153" facs="#pag44_r87"/> 
+         ponderatamente le prime e fortunate commedie di lui, la
+         <lb n="154" facs="#pag44_r88"/> 
+         conchiusione di tale esame sarebbe stata questa: che il<persName ref="#torelli"> To- <lb break="no"/>
+         <lb n="155" facs="#pag44_r89"/> 
+         relli</persName>, abilissimo nella descrizione delle superfici, fallisce sem- <lb break="no"/>
+         <lb n="156" facs="#pag44_r90"/>
+          pre quando si prova a scrutare negl’intimi precordi l’uomo
+         <lb n="157" facs="#pag44_r91"/> 
+         morale: i tuoni dell’epiderme son giusti: manca di anato- <lb break="no"/>
+         <lb n="158" facs="#pag44_r92"/> 
+         mia; onde una certa disinvoltura nello sceneggiare, e nel
+         <lb n="159" facs="#pag44_r93"/> 
+         profilare, una tal quale abilità nell’aggruppare i fili della
+         <lb n="160" facs="#pag44_r94"/> 
+         commedia, una tal quale originalità nel districarne il nodo;
+         <lb n="161" facs="#pag44_r95"/> 
+         e scioltezza di dialogo quantunque in una lingua nè pura,
+         <lb n="162" facs="#pag44_r96"/> 
+         nè propria, nè elegante; in sostanza i requisiti minori del
+         <lb n="163" facs="#pag44_r97"/> 
+         poeta comico, tutti o quasi tutti: non uno dei principali, la
+         <lb n="164" facs="#pag44_r98"/> 
+         conoscenza cioè del cuore umano, e la facoltà di mettere al
+         <lb n="165" facs="#pag44_r99"/> 
+         mondo caratteri che abbiano insieme la unità e la varietà
+         <lb n="167" facs="#pag44_r100"/> 
+         interiore saviamente chiesta dall'<persName ref="#hegel">Hegel</persName>. Con minor preten- <lb break="no"/>
+         <lb n="168" facs="#pag44_r101" />
+         sione,e avendo più spirito e più studi, il<persName ref="#torelli">Torelli</persName> poteva ri- <lb break="no"/>
+         <lb n="169" facs="#pag44_r102"/> 
+         valeggiare col<name type="persom" ref="#gherardi">Gherardi</name>: tenuto conto della differenza che
+         <lb n="170" facs="#pag44_r103"/> 
+         corre tra il <date>1845</date>, anno nel quale il<persName ref="#gherardi">Gherardi</persName> cominciò a
+         <lb n="171" facs="#pag44_r104"/> 
+         scrivere: e il <date>1862</date>, che vide comparire sulla scena il<persName ref="#torelli"> To- <lb break="no"/>
+         <lb n="172" facs="#pag44_r105"/> 
+         relli</persName>. Nè stimiamo dir poco: perchè le commediole spigliate
+         <lb n="173" facs="#pag44_r106"/> 
+         e gaie dell’autore del<bibl rend="italic">Padiglione delle mortelle</bibl> delle mortelle vivono ancora
+         <lb n="174" facs="#pag44_r107"/> 
+         di vita floridissima, sebbene alcune abbiano circa una tren- <lb break="no"/>
+         <lb n="175" facs="#pag44_r108"/> 
+         tina d’anni addosso ; vivono e, a nostro credere, vivranno:
+         <lb n="176" facs="#pag44_r109"/> 
+         perchè non si propongono grandi intenti, ma i propostisi
+         <lb n="177" facs="#pag44_r110"/> 
+         raggiungono: la osservazione non vi è molto profonda, ma
+         <lb n="178" facs="#pag44_r111"/> 
+         sempre diligente e giusta: quando non divertissero più il
+         <lb n="179" facs="#pag44_r112"/> 
+         pubblico come lo divertono anche oggi, rimarrebbero mo- <lb break="no"/>
+         <lb n="180" facs="#pag44_r113"/> 
+         dello di festoso dialogo paesano e cronaca de’ costumi della
+         <lb n="181" facs="#pag44_r114"/> 
+         borghesia toscana del tempo nostro. Anche a costo di pro- <lb break="no"/>
+         <lb n="182" facs="#pag44_r115"/> 
+         vocare sdegni acerbi o sorrisi compassionevoli vogliamo dire
+         <lb n="183" facs="#pag44_r116"/> 
+         intero l’animo nostro: non reputiamo il<persName ref="#gherardi">Gherardi</persName> un poeta
+         <lb n="184" facs="#pag44_r117"/> 
+         comico da stare co’ primi; ma a senso nostro le<bibl rend="italic">Cleopatre</bibl>
+         <lb n="185" facs="#pag44_r118"/> 
+         saranno tornate da un pezzo ai silenzi degli ipogei, da un
+         <lb n="186" facs="#pag44_r119"/> 
+         pezzo i<bibl rend="italic">Fratelli d’Armi</bibl> si saranno rassegnati a chiedere
+         <lb n="187" facs="#pag44_r120"/> 
+         asilo fra gli obliati fantasmi delle leggende, quando <bibl rend="italic">Cogli
+         <lb n="188" facs="#pag44_r121"/> 
+         uomini non si scherza</bibl>, povera commediola che non ha altra
+         <lb n="189" facs="#pag44_r122"/> 
+         pretesa che di tenere allegro il pubblico per un <time>paio d’ore </time>,
+         <lb n="190" facs="#pag44_r123"/> 
+         si rappresenterà ancora sui teatri d’<placeName ref="#it">Italia</placeName>
+         <lb n="191" facs="#pag44_r124"/> 
+         E qui a proposito della<bibl rend="italic">Cleopatra</bibl>Cleopatra e del<bibl rend="italic">Fratello d’Armi</bibl>,
+         <lb n="192" facs="#pag44_r125"/> 
+         che sono i più recenti e più importanti lavori drammatici
+         <lb n="193" facs="#pag44_r126"/> 
+         venuti in luce fra noi, bisognerebbe tornare daccapo: e a
+         <lb n="194" facs="#pag44_r127"/> 
+         coloro i quali dicono che il Cossa declina e il<persName ref="#giacosa">Giacosa</persName> tra- <lb break="no"/>
+         <lb n="195" facs="#pag44_r128"/> 
+         ligna dimostrare come i difetti rimproverati a que’ drammi
+         <lb n="196" facs="#pag44_r129"/> 
+         fossero già in germe e più che in germe nel<bibl rend="italic">Cola di Rienzo</bibl> 
+         <lb n="197" facs="#pag44_r130"/> 
+         e nel<bibl rend="italic">Trionfo d'Amore</bibl>. Ma perchè l’argomento ci condur- <lb break="no"/>
+         <lb n="198" facs="#pag44_r131"/> 
+         rebbe per le lunghe, ed è occasione opportuna a discorrere
+         <lb n="199" facs="#pag44_r132"/> 
+         della via che ha preso e tiene la nostra letteratura dram-  <lb break="no"/>
+     </ab>
+
+     <!-- pagina 45-->
+    <cb n="7" xml:id="pag45_cb"/>
+     <ab>
+        <lb n="1" facs="#pag45_r1"/> 
+        matica, ne parleremo in seguito: aspettando intanto che
+        <lb n="2" facs="#pag45_r2"/> 
+        intorno alla<bibl rend="italic">Cleopatra</bibl>, la quale sin qui non fu rappresen- <lb break="no"/>
+        <lb n="3" facs="#pag45_r3"/> 
+        tata che al<placeName ref="#teatro_valle">Valle</placeName> di<placeName ref="#roma">Roma</placeName>, pronunzi giudizio il pubblico
+        <lb n="4" facs="#pag45_r4"/> 
+        di qualche altro teatro.
+
+     </ab>
+     </div>
+
+     <!-- BIBLIOGRAFIA: scienze giuridiche PAG 46-->
+
+<div>
+    <pb n="6" xml:id="pag46_pb"/>
+    <cb n="8" xml:id="pag46_cb"/>
+    <head rend="align(center) case(allcaps)" facs="#pag46_titolo">
+        <lb n="1" facs="#pag46_titolo"/> 
+        Scienze Giuridiche.
+    </head>
+    <ab>
+        <lb n="2" facs="#pag46_r1"/> <emph rend="case(allcaps)">Guglielmo Raising </emph> <emph rend="italic">Programma di Diritto Romano</emph>. —
+        <lb n="3" facs="#pag46_r2"/> Bologna, 1878.
+
+        <lb n="4" facs="#pag46_r3"/> 
+        L’opinione pubblica non s’interessa gran chè granché di quanto
+        <lb n="5" facs="#pag46_r4"/> 
+        avviene nel seno delle nostre molte, anzi troppe<orgName ref="#uni"> Uni- <lb break="no"/>
+        <lb n="6" facs="#pag46_r5"/> 
+        versità</orgName>; dei loro bisogni, dei loro inconvenienti, come anche
+        <lb n="7" facs="#pag46_r6"/> 
+        dei resultati che vi si ottengono, dei progressi che vi si
+        <lb n="8" facs="#pag46_r7"/> 
+        raggiungono. Le<orgName ref="#uni">Università</orgName> hanno ancora in<placeName ref="#it">Italia</placeName> un’ im- <lb break="no"/>
+        <lb n="9" facs="#pag46_r8"/> 
+        portanza municipale e regionale, non un’importanza na- <lb break="no"/>
+        <lb n="10" facs="#pag46_r9"/> 
+        zionale. A questa indifferenza contribuisce molto l’idea,
+        <lb n="11" facs="#pag46_r10"/> 
+        alimentata anche da uomini eminenti, che l’<orgName ref="#uni">Università</orgName> sia
+        <lb n="12" facs="#pag46_r11"/> 
+        e debba essere un istituto professionale e null’ altro. Noi
+        <lb n="13" facs="#pag46_r12"/> 
+        non vogliamo qui sollevare tutta la questione universitaria,
+        <lb n="14" facs="#pag46_r13"/> 
+        per la quale non basterebbe un volume, ma soltanto ri- <lb break="no"/>
+        <lb n="15" facs="#pag46_r14"/> 
+        chiamare l’attenzione del lettore sopra uno dei progressi,
+        <lb n="16" facs="#pag46_r15"/> 
+        che da alcuni anni si notano negli studi giuridici e spe- <lb break="no"/>
+        <lb n="17" facs="#pag46_r16"/> 
+        cialmente in quello meglio diretto e più profondo del di- <lb break="no"/>
+        <lb n="18" facs="#pag46_r17"/> 
+        ritto Romano. A questo Diritto, che rimarrà sempre una
+        <lb n="19" facs="#pag46_r18"/> 
+        delle nostre più grandi glorie nazionali, i giovani si rivol- <lb break="no"/>
+        <lb n="20" facs="#pag46_r19"/> 
+        gono con amore e profitto. Nelle tesi di laurea e nei con- <lb break="no"/>
+        <lb n="21" facs="#pag46_r20"/> 
+        corsi ai posti di perfezionamento all’interno ed all’estero
+        <lb n="22" facs="#pag46_r21"/> 
+        si leggono sovente eccellenti dissertazioni; gli studiosi, che
+        <lb n="23" facs="#pag46_r22"/> 
+        si recano all’estero, hanno per lo più lo scopo di perfezio- <lb break="no"/>
+        <lb n="24" facs="#pag46_r23"/> 
+        narsi nel diritto Romano, e molti più sarebbero, se il <orgName ref="#miniseroistr"> Mi- <lb break="no"/>
+        <lb n="25" facs="#pag46_r24"/> 
+        nistero di pubblica istruzione</orgName> potesse a quel fine disporre
+        <lb n="26" facs="#pag46_r25"/> 
+        di maggiori fondi per sussidi.
+        <lb n="27" facs="#pag46_r26"/> 
+        A questi progressi negli studi di giurisprudenza ha con- <lb break="no"/>
+        <lb n="28" facs="#pag46_r27"/> 
+        tribuito principalmente una valente schiera d’insegnanti,
+        <lb n="29" facs="#pag46_r28"/> 
+        che ricuoprono nelle nostre<orgName ref="#uni">Università</orgName> le cattedre di Isti- <lb break="no"/>
+        <lb n="30" facs="#pag46_r29"/> 
+        tuzioni e di Pandette. Fra essi abbiamo sempre udito ci- <lb break="no"/>
+        <lb n="31" facs="#pag46_r30"/> 
+        tare il nome del<roleName> <choice><abbr>prof.</abbr><expan>professore</expan></choice></roleName> <persName ref="#raisini">Raisini</persName> di <placeName ref="#modena">Modena</placeName> autore del libro
+        <lb n="32" facs="#pag46_r31"/> 
+        su cui stiamo per dare un giudizio. Anche questo suo
+        <lb n="33" facs="#pag46_r32"/> 
+        scritto è una prova di quanto dicevamo sul progresso de- <lb break="no"/>
+        <lb n="34" facs="#pag46_r33"/> 
+        gli studi. Venti o trent’anni fa un programma, come que- <lb break="no"/>
+        <lb n="35" facs="#pag46_r34"/> 
+        sto del <roleName> <choice><abbr>prof.</abbr><expan>professore</expan></choice></roleName> <name type="pers" ref="#raisini">Raisini</name> non sarebbe stato possibile: sarebbe
+        <lb n="36" facs="#pag46_r35"/> 
+        stato cioè un lavoro molto più magro e superficiale. Con
+        <lb n="37" facs="#pag46_r36"/> 
+        questo non vogliamo dire però ch'esso risponda completa- <lb break="no"/>
+        <lb n="38" facs="#pag46_r37"/> 
+        mente allo stato attuale della scienza. È verissimo che simili
+        <lb n="39" facs="#pag46_r38"/> 
+        compendi o programmi o sinopsi, come si vogliano chiamare,
+        <lb n="40" facs="#pag46_r39"/> 
+        sono la cosa più difficile a scriversi. L’Autore dichiara nella
+        <lb n="41" facs="#pag46_r40"/> 
+        prefazione di aver voluto fare un lavoro modesto, <quote> « un
+        <lb n="42" facs="#pag46_r41"/> 
+        » quadro sinottico, com’ egli dice, dei principii fondamen- <lb break="no"/>
+        <lb n="43" facs="#pag46_r42"/> 
+        » tali del diritto Romano, in cui colla maggior brevità
+
+        <!-- seconda colonna-->
+        <cb n="9" xml:id="pag46_cb2"/>
+         <lb n="44" facs="#pag46_r43"/> 
+         » e chiarezza che per me fosse possibile, mi sono proposto
+         <lb n="45" facs="#pag46_r44"/> 
+         » di porne in rilievo l’ importanza e il loro legame logico,
+         <lb n="46" facs="#pag46_r45"/> 
+         » storico e giuridico.» </quote> Ma tenendo pur conto della difficoltà
+         <lb n="47" facs="#pag46_r46"/> 
+         del genere, dobbiamo pur riconoscere che il lavoro del <persName ref="#raisini"> Rai- <lb break="no"/>
+         <lb n="48" facs="#pag46_r47"/> 
+         sini </persName>avrebbe potuto esser fatto molto meglio, e che così
+         <lb n="49" facs="#pag46_r48"/> 
+         com’è, sarà ben poco utile agli studiosi di diritto Romano,
+         <lb n="50" facs="#pag46_r49"/> 
+         eccettuati i suoi studenti pei quali la viva voce dell’ inse- <lb break="no"/>
+         <lb n="51" facs="#pag46_r50"/> 
+         gnante potrà supplire ai difetti del programma. La chia- <lb break="no"/>
+         <lb n="52" facs="#pag46_r51"/> 
+         rezza c’è, ma la brevità non sempre : dovunque si può
+         <lb n="53" facs="#pag46_r52"/> 
+         notare una certa disuguaglianza, che fa comparire ora
+         <lb n="54" facs="#pag46_r53"/> 
+         troppo, ora troppo poco, quello che l’autore crede di dover
+         <lb n="55" facs="#pag46_r54"/> 
+         esporre. Ma il difetto maggiore ci sembra la mancanza di
+         <lb n="56" facs="#pag46_r55"/> 
+         precisione nel formulare i principii e le regole, spesso le
+         <lb n="57" facs="#pag46_r56"/> 
+         più elementari. Ora per l’appunto in simili lavori sinottici
+         <lb n="58" facs="#pag46_r57"/> 
+         la esattezza dell’espressione non è soltanto un pregio, ma
+         <lb n="59" facs="#pag46_r58"/> 
+         una necessità. E perchè non ci si dica che asseriamo senza
+         <lb n="60" facs="#pag46_r59"/> 
+         prove, prendiamo due passi a caso. Il possesso vi è defi- <lb break="no"/>
+         <lb n="61" facs="#pag46_r60"/> 
+         nito nel senso più lato: <quote>« detenzione fisica di una cosa con
+         <lb n="62" facs="#pag46_r61"/> 
+         » animo di <q rend="italic">custodirla per sè o in nome d’ altri,</q>  » </quote> e manca
+         <lb n="63" facs="#pag46_r62"/> 
+         poi ogni definizione in un senso più stretto. Secondo que- <lb break="no"/>
+         <lb n="64" facs="#pag46_r63"/> 
+         sta definizione inesattissima anche il conduttore ed il com- <lb break="no"/>
+         <lb n="65" facs="#pag46_r64"/> 
+         modatario sarebbero possessori. Là dove si parla degli ele- <lb break="no"/>
+         <lb n="66" facs="#pag46_r65"/> 
+         menti essenziali dell’obbligazione, viene accennato in primo
+         <lb n="67" facs="#pag46_r66"/> 
+         luogo il concorso di due o più persone ec., e in secondo
+         <lb n="68" facs="#pag46_r67"/> 
+         luogo <quote> « <emph rend="italic"> prestazione di una cosa;</emph> » </quote> espressione anch’essa
+         <lb n="69" facs="#pag46_r68"/> 
+         di una inesattezza imperdonabile. Va bene, che più sotto
+         <lb n="70" facs="#pag46_r69"/> 
+         non si parla più di <quote> « cosa » </quote>ma di <quote>« prestazione, »</quote> e che vi
+         <lb n="71" facs="#pag46_r70"/> 
+         è accennato poter questa prestazione consistere perfino nel- <lb break="no"/>
+         <lb n="72" facs="#pag46_r71"/> 
+         l’obbligo di non fare; ma perchè non formular tutto ciò
+         <lb n="73" facs="#pag46_r72"/> 
+         esattamente nella definizione? 
+    </ab>
+</div>
+
+     <!-- BIBLIOGRAFIA: scienze economiche-->
+
+<div>
+    <pb />
+    <cb />
+    <head rend="align(center) case(allcaps)" facs="#pag46_titolo" xml:id="booo">
+        <lb n="1" facs="pag46_titolo2"/> Scienze Economiche.
+    </head>
+    <ab>
+        <lb n="2" facs="pag46_r1"/> 
+        Dott. Ulpiano Buzzetti. Teoria del Commercio Internazio- <lb break="no"/>
+        <lb n="3" facs="pag46_r2"/> 
+        nale. — Milano, 1877.
+
+        <lb n="4" facs="pag46_r3"/> 
+        L’Autore il quale mostra di avere coscienziosamente
+        <lb n="5" facs="pag46_r4"/> 
+        studiate le dottrine degli economisti inglesi più celebrati,
+        <lb n="6" facs="pag46_r5"/> 
+        ha voluto illustrare la teoria degli scambi internazionali,
+        <lb n="7" facs="pag46_r6"/> 
+        la quale accennata dal<persName ref="#ricardo"> Ricardo</persName> fu poi svolta dal<persName ref="#mill">Mill</persName>  e
+        <lb n="8" facs="pag46_r7"/> 
+        più tardi ripresa in esame dal<persName ref="#cairnes">Cairnes</persName>. Specialmente sulla
+        <lb n="9" facs="pag46_r8"/> 
+        scorta di quest’ultimo scrittore, il signor<persName ref="#buzzetti">Buzzetti</persName> dopo
+        <lb n="10" facs="pag46_r9"/> 
+        aver giustificata una separata trattazione dell’ argomento
+        <lb n="11" facs="pag46_r10"/> 
+        del commercio internazionale cerca di determinare ciò che
+        <lb n="12" facs="pag46_r11"/> 
+        sia il costo di produzione e quale sia la legge del valore
+        <lb n="13" facs="pag46_r12" /> 
+        applicata agli scambi internazionali. Mostra poi il legame
+        <lb n="14" facs="pag46_r13"/> 
+        della dottrina in questione con tutta la materia degli scambi
+        <lb n="15" facs="pag46_r14"/> 
+        internazionali. — Sebbene il libro del giovane autore non
+        <lb n="16" facs="pag46_r15"/> 
+        possa aspirare alla originalità, e l’originalità è ormai difficile
+        <lb n="17" facs="pag46_r16"/> 
+        in questi studi, pure sono degne di attenzione certe sue acute
+        <lb n="18" facs="pag46_r17"/> 
+        risposte alle critiche del<persName ref="#musgrave">Musgrave</persName>  alla teorica del<persName ref="#mill">Mill</persName>, non
+        <lb n="19" facs="pag46_r18"/> 
+        che diverse osservazioni sparse qua e là e particolarmente
+        <lb n="20" facs="pag46_r19"/> 
+        nella<bibl rend="italic">Nota sui salari e sul commercio internazionale</bibl>. Ciò che
+        <lb n="21" facs="pag46_r20"/> 
+        desidereremmo sarebbe una maggiore chiarezza ed una
+        <lb n="22" facs="pag46_r21"/> 
+        maggiore accuratezza nell’esporre le dottrine del<persName ref="#ricardo">Ricardo</persName> e
+        <lb n="23" facs="pag46_r22"/> 
+        del<persName ref="#mill">Mill</persName>, poiché non di rado manca la prima e talora la se- <lb break="no"/>
+        <lb n="24" facs="pag46_r23"/> 
+        conda. 
+    </ab>
+</div>
+ </body>
+
+<back>
+    <div>
+        <listPerson>
+            <person xml:id="vittorioemanuele">
+                <persName>
+                    <ref target="https://it.wikipedia.org/wiki/Vittorio_Emanuele_II_di_Savoia" />
+                    <forename>Vittorio</forename>
+                    <forename>Emanuele</forename>
+                </persName>
+                <sex>M</sex>
+                <birth>
+                    <placeName>Torino</placeName>,
+                    <date>14 marzo 1820</date>
+                </birth>
+                <death>
+                    <placeName>Roma</placeName>, 
+                    <date>9 gennaio 1878</date>
+                </death>
+                <occupation>Generale e politico, scrittore, marinaio.</occupation>
+            </person>
+
+            <person xml:id="garibaldi">
+                <persName>
+                    <ref target="https://it.wikipedia.org/wiki/Giuseppe_Garibaldi"/>
+                    <forename>Giuseppe</forename>
+                    <forename>Maria</forename>
+                    <surname>Garibaldi</surname>
+                </persName>
+                <sex>M</sex>
+                <birth>
+                    <placeName>Nizza</placeName>
+                    <date>14 marzo 1820</date>
+                </birth>
+                <death>
+                    <placeName>Caprera</placeName>, 
+                    <date>2 giugno 1882</date>
+                </death>
+            </person>
+
+        </listPerson>
+
+                    
+                   
+                    
+    
+    </div>
+
+</back>
+
+ 
+
+
+
+
+   
+</text>
+
+
+</TEI>
